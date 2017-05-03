@@ -1,0 +1,3094 @@
+{
+  "tiles_cyan" : [
+    {
+      "tile_xvalue" : "0",
+      "tile_id" : "cyan-01",
+      "tile_hsl" : "hsl(195, 4%, 96%)"
+    },
+    {
+      "tile_xvalue" : "40",
+      "tile_id" : "cyan-02",
+      "tile_hsl" : "hsl(195, 8%, 94%)"
+    },
+    {
+      "tile_xvalue" : "80",
+      "tile_id" : "cyan-03",
+      "tile_hsl" : "hsl(195, 12%, 90%)"
+    },
+    {
+      "tile_xvalue" : "120",
+      "tile_id" : "cyan-04",
+      "tile_hsl" : "hsl(195, 16%, 85%)"
+    },
+    {
+      "tile_xvalue" : "160",
+      "tile_id" : "cyan-05",
+      "tile_hsl" : "hsl(195, 20%, 80%)"
+    },
+    {
+      "tile_xvalue" : "200",
+      "tile_id" : "cyan-06",
+      "tile_hsl" : "hsl(195, 24%, 75%)"
+    },
+    {
+      "tile_xvalue" : "240",
+      "tile_id" : "cyan-07",
+      "tile_hsl" : "hsl(195, 28%, 70%)"
+    },
+    {
+      "tile_xvalue" : "280",
+      "tile_id" : "cyan-08",
+      "tile_hsl" : "hsl(195, 32%, 65%)"
+    },
+    {
+      "tile_xvalue" : "320",
+      "tile_id" : "cyan-09",
+      "tile_hsl" : "hsl(195, 36%, 60%)"
+    },
+    {
+      "tile_xvalue" : "360",
+      "tile_id" : "cyan-10",
+      "tile_hsl" : "hsl(195, 40%, 55%)"
+    },
+    {
+      "tile_xvalue" : "400",
+      "tile_id" : "cyan-11",
+      "tile_hsl" : "hsl(195, 50%, 50%)"
+    },
+    {
+      "tile_xvalue" : "440",
+      "tile_id" : "cyan-12",
+      "tile_hsl" : "hsl(195, 55%, 45%)"
+    },
+    {
+      "tile_xvalue" : "480",
+      "tile_id" : "cyan-13",
+      "tile_hsl" : "hsl(195, 60%, 40%)"
+    },
+    {
+      "tile_xvalue" : "520",
+      "tile_id" : "cyan-14",
+      "tile_hsl" : "hsl(195, 70%, 35%)"
+    },
+    {
+      "tile_xvalue" : "560",
+      "tile_id" : "cyan-15",
+      "tile_hsl" : "hsl(195, 75%, 30%)"
+    },
+    {
+      "tile_xvalue" : "600",
+      "tile_id" : "cyan-16",
+      "tile_hsl" : "hsl(195, 80%, 25%)"
+    },
+    {
+      "tile_xvalue" : "640",
+      "tile_id" : "cyan-17",
+      "tile_hsl" : "hsl(195, 85%, 20%)"
+    },
+    {
+      "tile_xvalue" : "680",
+      "tile_id" : "cyan-18",
+      "tile_hsl" : "hsl(195, 90%, 16%)"
+    },
+    {
+      "tile_xvalue" : "720",
+      "tile_id" : "cyan-19",
+      "tile_hsl" : "hsl(195, 95%, 12%)"
+    },
+    {
+      "tile_xvalue" : "760",
+      "tile_id" : "cyan-20",
+      "tile_hsl" : "hsl(195, 100%, 8%)"
+    }
+  ],
+
+  "tiles_bluesky" : [
+    {
+      "tile_xvalue" : "0",
+      "tile_id" : "bluesky-01",
+      "tile_hsl" : "hsl(203, 4%, 96%)"
+    },
+    {
+      "tile_xvalue" : "40",
+      "tile_id" : "bluesky-02",
+      "tile_hsl" : "hsl(203, 8%, 94%)"
+    },
+    {
+      "tile_xvalue" : "80",
+      "tile_id" : "bluesky-03",
+      "tile_hsl" : "hsl(203, 12%, 90%)"
+    },
+    {
+      "tile_xvalue" : "120",
+      "tile_id" : "bluesky-04",
+      "tile_hsl" : "hsl(203, 16%, 85%)"
+    },
+    {
+      "tile_xvalue" : "160",
+      "tile_id" : "bluesky-05",
+      "tile_hsl" : "hsl(203, 20%, 80%)"
+    },
+    {
+      "tile_xvalue" : "200",
+      "tile_id" : "bluesky-06",
+      "tile_hsl" : "hsl(203, 24%, 75%)"
+    },
+    {
+      "tile_xvalue" : "240",
+      "tile_id" : "bluesky-07",
+      "tile_hsl" : "hsl(203, 28%, 70%)"
+    },
+    {
+      "tile_xvalue" : "280",
+      "tile_id" : "bluesky-08",
+      "tile_hsl" : "hsl(203, 32%, 65%)"
+    },
+    {
+      "tile_xvalue" : "320",
+      "tile_id" : "bluesky-09",
+      "tile_hsl" : "hsl(203, 36%, 60%)"
+    },
+    {
+      "tile_xvalue" : "360",
+      "tile_id" : "bluesky-10",
+      "tile_hsl" : "hsl(203, 40%, 55%)"
+    },
+    {
+      "tile_xvalue" : "400",
+      "tile_id" : "bluesky-11",
+      "tile_hsl" : "hsl(203, 60%, 50%)"
+    },
+    {
+      "tile_xvalue" : "440",
+      "tile_id" : "bluesky-12",
+      "tile_hsl" : "hsl(203, 65%, 45%)"
+    },
+    {
+      "tile_xvalue" : "480",
+      "tile_id" : "bluesky-13",
+      "tile_hsl" : "hsl(203, 70%, 40%)"
+    },
+    {
+      "tile_xvalue" : "520",
+      "tile_id" : "bluesky-14",
+      "tile_hsl" : "hsl(203, 75%, 35%)"
+    },
+    {
+      "tile_xvalue" : "560",
+      "tile_id" : "bluesky-15",
+      "tile_hsl" : "hsl(203, 80%, 30%)"
+    },
+    {
+      "tile_xvalue" : "600",
+      "tile_id" : "bluesky-16",
+      "tile_hsl" : "hsl(203, 84%, 25%)"
+    },
+    {
+      "tile_xvalue" : "640",
+      "tile_id" : "bluesky-17",
+      "tile_hsl" : "hsl(203, 88%, 20%)"
+    },
+    {
+      "tile_xvalue" : "680",
+      "tile_id" : "bluesky-18",
+      "tile_hsl" : "hsl(203, 92%, 16%)"
+    },
+    {
+      "tile_xvalue" : "720",
+      "tile_id" : "bluesky-19",
+      "tile_hsl" : "hsl(203, 96%, 12%)"
+    },
+    {
+      "tile_xvalue" : "760",
+      "tile_id" : "bluesky-20",
+      "tile_hsl" : "hsl(203, 100%, 8%)"
+    }
+  ],
+
+  "tiles_cobalt" : [
+    {
+      "tile_xvalue" : "0",
+      "tile_id" : "cobalt-01",
+      "tile_hsl" : "hsl(210, 4%, 96%)"
+    },
+    {
+      "tile_xvalue" : "40",
+      "tile_id" : "cobalt-02",
+      "tile_hsl" : "hsl(210, 8%, 94%)"
+    },
+    {
+      "tile_xvalue" : "80",
+      "tile_id" : "cobalt-03",
+      "tile_hsl" : "hsl(210, 12%, 90%)"
+    },
+    {
+      "tile_xvalue" : "120",
+      "tile_id" : "cobalt-04",
+      "tile_hsl" : "hsl(210, 16%, 85%)"
+    },
+    {
+      "tile_xvalue" : "160",
+      "tile_id" : "cobalt-05",
+      "tile_hsl" : "hsl(210, 20%, 80%)"
+    },
+    {
+      "tile_xvalue" : "200",
+      "tile_id" : "cobalt-06",
+      "tile_hsl" : "hsl(210, 24%, 75%)"
+    },
+    {
+      "tile_xvalue" : "240",
+      "tile_id" : "cobalt-07",
+      "tile_hsl" : "hsl(210, 28%, 70%)"
+    },
+    {
+      "tile_xvalue" : "280",
+      "tile_id" : "cobalt-08",
+      "tile_hsl" : "hsl(210, 32%, 65%)"
+    },
+    {
+      "tile_xvalue" : "320",
+      "tile_id" : "cobalt-09",
+      "tile_hsl" : "hsl(210, 36%, 60%)"
+    },
+    {
+      "tile_xvalue" : "360",
+      "tile_id" : "cobalt-10",
+      "tile_hsl" : "hsl(210, 40%, 55%)"
+    },
+    {
+      "tile_xvalue" : "400",
+      "tile_id" : "cobalt-11",
+      "tile_hsl" : "hsl(210, 60%, 50%)"
+    },
+    {
+      "tile_xvalue" : "440",
+      "tile_id" : "cobalt-12",
+      "tile_hsl" : "hsl(210, 65%, 45%)"
+    },
+    {
+      "tile_xvalue" : "480",
+      "tile_id" : "cobalt-13",
+      "tile_hsl" : "hsl(210, 70%, 40%)"
+    },
+    {
+      "tile_xvalue" : "520",
+      "tile_id" : "cobalt-14",
+      "tile_hsl" : "hsl(210, 75%, 35%)"
+    },
+    {
+      "tile_xvalue" : "560",
+      "tile_id" : "cobalt-15",
+      "tile_hsl" : "hsl(210, 80%, 30%)"
+    },
+    {
+      "tile_xvalue" : "600",
+      "tile_id" : "cobalt-16",
+      "tile_hsl" : "hsl(210, 84%, 25%)"
+    },
+    {
+      "tile_xvalue" : "640",
+      "tile_id" : "cobalt-17",
+      "tile_hsl" : "hsl(210, 88%, 20%)"
+    },
+    {
+      "tile_xvalue" : "680",
+      "tile_id" : "cobalt-18",
+      "tile_hsl" : "hsl(210, 92%, 16%)"
+    },
+    {
+      "tile_xvalue" : "720",
+      "tile_id" : "cobalt-19",
+      "tile_hsl" : "hsl(210, 96%, 12%)"
+    },
+    {
+      "tile_xvalue" : "760",
+      "tile_id" : "cobalt-20",
+      "tile_hsl" : "hsl(210, 100%, 8%)"
+    }
+  ],
+
+  "tiles_blueryb" : [
+    {
+      "tile_xvalue" : "0",
+      "tile_id" : "blueryb-01",
+      "tile_hsl" : "hsl(210, 4%, 96%)"
+    },
+    {
+      "tile_xvalue" : "40",
+      "tile_id" : "blueryb-02",
+      "tile_hsl" : "hsl(210, 8%, 94%)"
+    },
+    {
+      "tile_xvalue" : "80",
+      "tile_id" : "blueryb-03",
+      "tile_hsl" : "hsl(210, 12%, 90%)"
+    },
+    {
+      "tile_xvalue" : "120",
+      "tile_id" : "blueryb-04",
+      "tile_hsl" : "hsl(210, 16%, 85%)"
+    },
+    {
+      "tile_xvalue" : "160",
+      "tile_id" : "blueryb-05",
+      "tile_hsl" : "hsl(210, 20%, 80%)"
+    },
+    {
+      "tile_xvalue" : "200",
+      "tile_id" : "blueryb-06",
+      "tile_hsl" : "hsl(210, 24%, 75%)"
+    },
+    {
+      "tile_xvalue" : "240",
+      "tile_id" : "blueryb-07",
+      "tile_hsl" : "hsl(210, 28%, 70%)"
+    },
+    {
+      "tile_xvalue" : "280",
+      "tile_id" : "blueryb-08",
+      "tile_hsl" : "hsl(210, 32%, 65%)"
+    },
+    {
+      "tile_xvalue" : "320",
+      "tile_id" : "blueryb-09",
+      "tile_hsl" : "hsl(210, 36%, 60%)"
+    },
+    {
+      "tile_xvalue" : "360",
+      "tile_id" : "blueryb-10",
+      "tile_hsl" : "hsl(210, 40%, 55%)"
+    },
+    {
+      "tile_xvalue" : "400",
+      "tile_id" : "blueryb-11",
+      "tile_hsl" : "hsl(210, 60%, 50%)"
+    },
+    {
+      "tile_xvalue" : "440",
+      "tile_id" : "blueryb-12",
+      "tile_hsl" : "hsl(210, 65%, 45%)"
+    },
+    {
+      "tile_xvalue" : "480",
+      "tile_id" : "blueryb-13",
+      "tile_hsl" : "hsl(210, 70%, 40%)"
+    },
+    {
+      "tile_xvalue" : "520",
+      "tile_id" : "blueryb-14",
+      "tile_hsl" : "hsl(210, 75%, 35%)"
+    },
+    {
+      "tile_xvalue" : "560",
+      "tile_id" : "blueryb-15",
+      "tile_hsl" : "hsl(210, 80%, 30%)"
+    },
+    {
+      "tile_xvalue" : "600",
+      "tile_id" : "blueryb-16",
+      "tile_hsl" : "hsl(210, 84%, 25%)"
+    },
+    {
+      "tile_xvalue" : "640",
+      "tile_id" : "blueryb-17",
+      "tile_hsl" : "hsl(210, 88%, 20%)"
+    },
+    {
+      "tile_xvalue" : "680",
+      "tile_id" : "blueryb-18",
+      "tile_hsl" : "hsl(210, 92%, 16%)"
+    },
+    {
+      "tile_xvalue" : "720",
+      "tile_id" : "blueryb-19",
+      "tile_hsl" : "hsl(210, 96%, 12%)"
+    },
+    {
+      "tile_xvalue" : "760",
+      "tile_id" : "blueryb-20",
+      "tile_hsl" : "hsl(210, 100%, 8%)"
+    }
+  ],
+
+  "tiles_blue" : [
+    {
+      "tile_xvalue" : "0",
+      "tile_id" : "blue-01",
+      "tile_hsl" : "hsl(225, 23%, 96%)"
+    },
+    {
+      "tile_xvalue" : "40",
+      "tile_id" : "blue-02",
+      "tile_hsl" : "hsl(225, 26%, 94%)"
+    },
+    {
+      "tile_xvalue" : "80",
+      "tile_id" : "blue-03",
+      "tile_hsl" : "hsl(225, 28%, 90%)"
+    },
+    {
+      "tile_xvalue" : "120",
+      "tile_id" : "blue-04",
+      "tile_hsl" : "hsl(225, 29%, 85%)"
+    },
+    {
+      "tile_xvalue" : "160",
+      "tile_id" : "blue-05",
+      "tile_hsl" : "hsl(225, 30%, 80%)"
+    },
+    {
+      "tile_xvalue" : "200",
+      "tile_id" : "blue-06",
+      "tile_hsl" : "hsl(225, 31%, 75%)"
+    },
+    {
+      "tile_xvalue" : "240",
+      "tile_id" : "blue-07",
+      "tile_hsl" : "hsl(225, 32%, 70%)"
+    },
+    {
+      "tile_xvalue" : "280",
+      "tile_id" : "blue-08",
+      "tile_hsl" : "hsl(225, 33%, 65%)"
+    },
+    {
+      "tile_xvalue" : "320",
+      "tile_id" : "blue-09",
+      "tile_hsl" : "hsl(225, 34%, 60%)"
+    },
+    {
+      "tile_xvalue" : "360",
+      "tile_id" : "blue-10",
+      "tile_hsl" : "hsl(225, 35%, 55%)"
+    },
+    {
+      "tile_xvalue" : "400",
+      "tile_id" : "blue-11",
+      "tile_hsl" : "hsl(225, 65%, 50%)"
+    },
+    {
+      "tile_xvalue" : "440",
+      "tile_id" : "blue-12",
+      "tile_hsl" : "hsl(225, 67%, 45%)"
+    },
+    {
+      "tile_xvalue" : "480",
+      "tile_id" : "blue-13",
+      "tile_hsl" : "hsl(225, 71%, 40%)"
+    },
+    {
+      "tile_xvalue" : "520",
+      "tile_id" : "blue-14",
+      "tile_hsl" : "hsl(225, 73%, 35%)"
+    },
+    {
+      "tile_xvalue" : "560",
+      "tile_id" : "blue-15",
+      "tile_hsl" : "hsl(225, 74%, 30%)"
+    },
+    {
+      "tile_xvalue" : "600",
+      "tile_id" : "blue-16",
+      "tile_hsl" : "hsl(225, 75%, 25%)"
+    },
+    {
+      "tile_xvalue" : "640",
+      "tile_id" : "blue-17",
+      "tile_hsl" : "hsl(225, 76%, 20%)"
+    },
+    {
+      "tile_xvalue" : "680",
+      "tile_id" : "blue-18",
+      "tile_hsl" : "hsl(225, 77%, 16%)"
+    },
+    {
+      "tile_xvalue" : "720",
+      "tile_id" : "blue-19",
+      "tile_hsl" : "hsl(225, 81%, 12%)"
+    },
+    {
+      "tile_xvalue" : "760",
+      "tile_id" : "blue-20",
+      "tile_hsl" : "hsl(225, 90%, 8%)"
+    }
+  ],
+
+  "tiles_bluebonnet": [
+    {
+      "tile_xvalue" : "0",
+      "tile_id" : "bluebonnet-01",
+      "tile_hsl" : "hsl(232, 18%, 96%)"
+    },
+    {
+      "tile_xvalue" : "40",
+      "tile_id" : "bluebonnet-02",
+      "tile_hsl" : "hsl(232, 21%, 94%)"
+    },
+    {
+      "tile_xvalue" : "80",
+      "tile_id" : "bluebonnet-03",
+      "tile_hsl" : "hsl(232, 23%, 90%)"
+    },
+    {
+      "tile_xvalue" : "120",
+      "tile_id" : "bluebonnet-04",
+      "tile_hsl" : "hsl(232, 24%, 85%)"
+    },
+    {
+      "tile_xvalue" : "160",
+      "tile_id" : "bluebonnet-05",
+      "tile_hsl" : "hsl(232, 25%, 80%)"
+    },
+    {
+      "tile_xvalue" : "200",
+      "tile_id" : "bluebonnet-06",
+      "tile_hsl" : "hsl(232, 26%, 75%)"
+    },
+    {
+      "tile_xvalue" : "240",
+      "tile_id" : "bluebonnet-07",
+      "tile_hsl" : "hsl(232, 27%, 70%)"
+    },
+    {
+      "tile_xvalue" : "280",
+      "tile_id" : "bluebonnet-08",
+      "tile_hsl" : "hsl(232, 28%, 65%)"
+    },
+    {
+      "tile_xvalue" : "320",
+      "tile_id" : "bluebonnet-09",
+      "tile_hsl" : "hsl(232, 29%, 60%)"
+    },
+    {
+      "tile_xvalue" : "360",
+      "tile_id" : "bluebonnet-10",
+      "tile_hsl" : "hsl(232, 30%, 55%)"
+    },
+    {
+      "tile_xvalue" : "400",
+      "tile_id" : "bluebonnet-11",
+      "tile_hsl" : "hsl(232, 55%, 50%)"
+    },
+    {
+      "tile_xvalue" : "440",
+      "tile_id" : "bluebonnet-12",
+      "tile_hsl" : "hsl(232, 57%, 45%)"
+    },
+    {
+      "tile_xvalue" : "480",
+      "tile_id" : "bluebonnet-13",
+      "tile_hsl" : "hsl(232, 60%, 40%)"
+    },
+    {
+      "tile_xvalue" : "520",
+      "tile_id" : "bluebonnet-14",
+      "tile_hsl" : "hsl(232, 63%, 35%)"
+    },
+    {
+      "tile_xvalue" : "560",
+      "tile_id" : "bluebonnet-15",
+      "tile_hsl" : "hsl(232, 65%, 30%)"
+    },
+    {
+      "tile_xvalue" : "600",
+      "tile_id" : "bluebonnet-16",
+      "tile_hsl" : "hsl(232, 70%, 25%)"
+    },
+    {
+      "tile_xvalue" : "640",
+      "tile_id" : "bluebonnet-17",
+      "tile_hsl" : "hsl(232, 75%, 20%)"
+    },
+    {
+      "tile_xvalue" : "680",
+      "tile_id" : "bluebonnet-18",
+      "tile_hsl" : "hsl(232, 80%, 16%)"
+    },
+    {
+      "tile_xvalue" : "720",
+      "tile_id" : "bluebonnet-19",
+      "tile_hsl" : "hsl(232, 85%, 12%)"
+    },
+    {
+      "tile_xvalue" : "760",
+      "tile_id" : "bluebonnet-20",
+      "tile_hsl" : "hsl(232, 90%,  8%)"
+    }
+  ],
+
+  "tiles_purple" : [
+    {
+      "tile_xvalue" : "0",
+      "tile_id" : "purple-01",
+      "tile_hsl" : "hsl(240, 12%, 96%)"
+    },
+    {
+      "tile_xvalue" : "40",
+      "tile_id" : "purple-02",
+      "tile_hsl" : "hsl(240, 13%, 94%)"
+    },
+    {
+      "tile_xvalue" : "80",
+      "tile_id" : "purple-03",
+      "tile_hsl" : "hsl(240, 14%, 90%)"
+    },
+    {
+      "tile_xvalue" : "120",
+      "tile_id" : "purple-04",
+      "tile_hsl" : "hsl(240, 15%, 85%)"
+    },
+    {
+      "tile_xvalue" : "160",
+      "tile_id" : "purple-05",
+      "tile_hsl" : "hsl(240, 16%, 80%)"
+    },
+    {
+      "tile_xvalue" : "200",
+      "tile_id" : "purple-06",
+      "tile_hsl" : "hsl(240, 17%, 75%)"
+    },
+    {
+      "tile_xvalue" : "240",
+      "tile_id" : "purple-07",
+      "tile_hsl" : "hsl(240, 18%, 70%)"
+    },
+    {
+      "tile_xvalue" : "280",
+      "tile_id" : "purple-08",
+      "tile_hsl" : "hsl(240, 19%, 65%)"
+    },
+    {
+      "tile_xvalue" : "320",
+      "tile_id" : "purple-09",
+      "tile_hsl" : "hsl(240, 22%, 60%)"
+    },
+    {
+      "tile_xvalue" : "360",
+      "tile_id" : "purple-10",
+      "tile_hsl" : "hsl(240, 25%, 55%)"
+    },
+    {
+      "tile_xvalue" : "400",
+      "tile_id" : "purple-11",
+      "tile_hsl" : "hsl(240, 45%, 50%)"
+    },
+    {
+      "tile_xvalue" : "440",
+      "tile_id" : "purple-12",
+      "tile_hsl" : "hsl(240, 48%, 45%)"
+    },
+    {
+      "tile_xvalue" : "480",
+      "tile_id" : "purple-13",
+      "tile_hsl" : "hsl(240, 51%, 40%)"
+    },
+    {
+      "tile_xvalue" : "520",
+      "tile_id" : "purple-14",
+      "tile_hsl" : "hsl(240, 54%, 35%)"
+    },
+    {
+      "tile_xvalue" : "560",
+      "tile_id" : "purple-15",
+      "tile_hsl" : "hsl(240, 57%, 30%)"
+    },
+    {
+      "tile_xvalue" : "600",
+      "tile_id" : "purple-16",
+      "tile_hsl" : "hsl(240, 60%, 25%)"
+    },
+    {
+      "tile_xvalue" : "640",
+      "tile_id" : "purple-17",
+      "tile_hsl" : "hsl(240, 63%, 20%)"
+    },
+    {
+      "tile_xvalue" : "680",
+      "tile_id" : "purple-18",
+      "tile_hsl" : "hsl(240, 66%, 16%)"
+    },
+    {
+      "tile_xvalue" : "720",
+      "tile_id" : "purple-19",
+      "tile_hsl" : "hsl(240, 70%, 12%)"
+    },
+    {
+      "tile_xvalue" : "760",
+      "tile_id" : "purple-20",
+      "tile_hsl" : "hsl(240, 74%, 8%)"
+    }
+  ],
+
+  "tiles_plump" : [
+    {
+      "tile_xvalue" : "0",
+      "tile_id" : "plump-01",
+      "tile_hsl" : "hsl(250,  12%, 96%)"
+    },
+    {
+      "tile_xvalue" : "40",
+      "tile_id" : "plump-02",
+      "tile_hsl" : "hsl(250,  13%, 94%)"
+    },
+    {
+      "tile_xvalue" : "80",
+      "tile_id" : "plump-03",
+      "tile_hsl" : "hsl(250,  14%, 90%)"
+    },
+    {
+      "tile_xvalue" : "120",
+      "tile_id" : "plump-04",
+      "tile_hsl" : "hsl(250,  15%, 85%)"
+    },
+    {
+      "tile_xvalue" : "160",
+      "tile_id" : "plump-05",
+      "tile_hsl" : "hsl(250,  16%, 80%)"
+    },
+    {
+      "tile_xvalue" : "200",
+      "tile_id" : "plump-06",
+      "tile_hsl" : "hsl(250,  17%, 75%)"
+    },
+    {
+      "tile_xvalue" : "240",
+      "tile_id" : "plump-07",
+      "tile_hsl" : "hsl(250,  18%, 70%)"
+    },
+    {
+      "tile_xvalue" : "280",
+      "tile_id" : "plump-08",
+      "tile_hsl" : "hsl(250,  19%, 65%)"
+    },
+    {
+      "tile_xvalue" : "320",
+      "tile_id" : "plump-09",
+      "tile_hsl" : "hsl(250,  22%, 60%)"
+    },
+    {
+      "tile_xvalue" : "360",
+      "tile_id" : "plump-10",
+      "tile_hsl" : "hsl(250,  25%, 55%)"
+    },
+    {
+      "tile_xvalue" : "400",
+      "tile_id" : "plump-11",
+      "tile_hsl" : "hsl(250,  45%, 50%)"
+    },
+    {
+      "tile_xvalue" : "440",
+      "tile_id" : "plump-12",
+      "tile_hsl" : "hsl(250,  48%, 45%)"
+    },
+    {
+      "tile_xvalue" : "480",
+      "tile_id" : "plump-13",
+      "tile_hsl" : "hsl(250,  51%, 40%)"
+    },
+    {
+      "tile_xvalue" : "520",
+      "tile_id" : "plump-14",
+      "tile_hsl" : "hsl(250,  54%, 35%)"
+    },
+    {
+      "tile_xvalue" : "560",
+      "tile_id" : "plump-15",
+      "tile_hsl" : "hsl(250,  57%, 30%)"
+    },
+    {
+      "tile_xvalue" : "600",
+      "tile_id" : "plump-16",
+      "tile_hsl" : "hsl(250,  60%, 25%)"
+    },
+    {
+      "tile_xvalue" : "640",
+      "tile_id" : "plump-17",
+      "tile_hsl" : "hsl(250,  63%, 20%)"
+    },
+    {
+      "tile_xvalue" : "680",
+      "tile_id" : "plump-18",
+      "tile_hsl" : "hsl(250,  66%, 16%)"
+    },
+    {
+      "tile_xvalue" : "720",
+      "tile_id" : "plump-19",
+      "tile_hsl" : "hsl(250,  70%, 12%)"
+    },
+    {
+      "tile_xvalue" : "760",
+      "tile_id" : "plump-20",
+      "tile_hsl" : "hsl(250,  74%,  8%)"
+    }
+  ],
+
+  "tiles_violet" : [
+    {
+      "tile_xvalue" : "0",
+      "tile_id" : "violet-01",
+      "tile_hsl" : "hsl(260, 12%, 96%)"
+    },
+    {
+      "tile_xvalue" : "40",
+      "tile_id" : "violet-02",
+      "tile_hsl" : "hsl(260, 13%, 94%)"
+    },
+    {
+      "tile_xvalue" : "80",
+      "tile_id" : "violet-03",
+      "tile_hsl" : "hsl(260, 14%, 90%)"
+    },
+    {
+      "tile_xvalue" : "120",
+      "tile_id" : "violet-04",
+      "tile_hsl" : "hsl(260, 15%, 85%)"
+    },
+    {
+      "tile_xvalue" : "160",
+      "tile_id" : "violet-05",
+      "tile_hsl" : "hsl(260, 16%, 80%)"
+    },
+    {
+      "tile_xvalue" : "200",
+      "tile_id" : "violet-06",
+      "tile_hsl" : "hsl(260, 17%, 75%)"
+    },
+    {
+      "tile_xvalue" : "240",
+      "tile_id" : "violet-07",
+      "tile_hsl" : "hsl(260, 18%, 70%)"
+    },
+    {
+      "tile_xvalue" : "280",
+      "tile_id" : "violet-08",
+      "tile_hsl" : "hsl(260, 19%, 65%)"
+    },
+    {
+      "tile_xvalue" : "320",
+      "tile_id" : "violet-09",
+      "tile_hsl" : "hsl(260, 22%, 60%)"
+    },
+    {
+      "tile_xvalue" : "360",
+      "tile_id" : "violet-10",
+      "tile_hsl" : "hsl(260, 25%, 55%)"
+    },
+    {
+      "tile_xvalue" : "400",
+      "tile_id" : "violet-11",
+      "tile_hsl" : "hsl(260, 45%, 50%)"
+    },
+    {
+      "tile_xvalue" : "440",
+      "tile_id" : "violet-12",
+      "tile_hsl" : "hsl(260, 48%, 45%)"
+    },
+    {
+      "tile_xvalue" : "480",
+      "tile_id" : "violet-13",
+      "tile_hsl" : "hsl(260, 51%, 40%)"
+    },
+    {
+      "tile_xvalue" : "520",
+      "tile_id" : "violet-14",
+      "tile_hsl" : "hsl(260, 54%, 35%)"
+    },
+    {
+      "tile_xvalue" : "560",
+      "tile_id" : "violet-15",
+      "tile_hsl" : "hsl(260, 57%, 30%)"
+    },
+    {
+      "tile_xvalue" : "600",
+      "tile_id" : "violet-16",
+      "tile_hsl" : "hsl(260, 60%, 25%)"
+    },
+    {
+      "tile_xvalue" : "640",
+      "tile_id" : "violet-17",
+      "tile_hsl" : "hsl(260, 65%, 20%)"
+    },
+    {
+      "tile_xvalue" : "680",
+      "tile_id" : "violet-18",
+      "tile_hsl" : "hsl(260, 70%, 16%)"
+    },
+    {
+      "tile_xvalue" : "720",
+      "tile_id" : "violet-19",
+      "tile_hsl" : "hsl(260, 80%, 12%)"
+    },
+    {
+      "tile_xvalue" : "760",
+      "tile_id" : "violet-20",
+      "tile_hsl" : "hsl(260, 84%,  8%)"
+    }
+  ],
+
+  "tiles_indigo" : [
+    {
+      "tile_xvalue" : "0",
+      "tile_id" : "indigo-01",
+      "tile_hsl" : "hsl(275, 12%, 96%)"
+    },
+    {
+      "tile_xvalue" : "40",
+      "tile_id" : "indigo-02",
+      "tile_hsl" : "hsl(275, 13%, 94%)"
+    },
+    {
+      "tile_xvalue" : "80",
+      "tile_id" : "indigo-03",
+      "tile_hsl" : "hsl(275, 14%, 90%)"
+    },
+    {
+      "tile_xvalue" : "120",
+      "tile_id" : "indigo-04",
+      "tile_hsl" : "hsl(275, 15%, 85%)"
+    },
+    {
+      "tile_xvalue" : "160",
+      "tile_id" : "indigo-05",
+      "tile_hsl" : "hsl(275, 16%, 80%)"
+    },
+    {
+      "tile_xvalue" : "200",
+      "tile_id" : "indigo-06",
+      "tile_hsl" : "hsl(275, 17%, 75%)"
+    },
+    {
+      "tile_xvalue" : "240",
+      "tile_id" : "indigo-07",
+      "tile_hsl" : "hsl(275, 18%, 70%)"
+    },
+    {
+      "tile_xvalue" : "280",
+      "tile_id" : "indigo-08",
+      "tile_hsl" : "hsl(275, 19%, 65%)"
+    },
+    {
+      "tile_xvalue" : "320",
+      "tile_id" : "indigo-09",
+      "tile_hsl" : "hsl(275, 22%, 60%)"
+    },
+    {
+      "tile_xvalue" : "360",
+      "tile_id" : "indigo-10",
+      "tile_hsl" : "hsl(275, 25%, 55%)"
+    },
+    {
+      "tile_xvalue" : "400",
+      "tile_id" : "indigo-11",
+      "tile_hsl" : "hsl(275, 45%, 50%)"
+    },
+    {
+      "tile_xvalue" : "440",
+      "tile_id" : "indigo-12",
+      "tile_hsl" : "hsl(275, 48%, 45%)"
+    },
+    {
+      "tile_xvalue" : "480",
+      "tile_id" : "indigo-13",
+      "tile_hsl" : "hsl(275, 51%, 40%)"
+    },
+    {
+      "tile_xvalue" : "520",
+      "tile_id" : "indigo-14",
+      "tile_hsl" : "hsl(275, 54%, 35%)"
+    },
+    {
+      "tile_xvalue" : "560",
+      "tile_id" : "indigo-15",
+      "tile_hsl" : "hsl(275, 57%, 30%)"
+    },
+    {
+      "tile_xvalue" : "600",
+      "tile_id" : "indigo-16",
+      "tile_hsl" : "hsl(275, 60%, 25%)"
+    },
+    {
+      "tile_xvalue" : "640",
+      "tile_id" : "indigo-17",
+      "tile_hsl" : "hsl(275, 65%, 20%)"
+    },
+    {
+      "tile_xvalue" : "680",
+      "tile_id" : "indigo-18",
+      "tile_hsl" : "hsl(275, 70%, 16%)"
+    },
+    {
+      "tile_xvalue" : "720",
+      "tile_id" : "indigo-19",
+      "tile_hsl" : "hsl(275, 80%, 12%)"
+    },
+    {
+      "tile_xvalue" : "760",
+      "tile_id" : "indigo-20",
+      "tile_hsl" : "hsl(275, 84%,  8%)"
+    }
+  ],
+
+  "tiles_magenta" : [
+    {
+      "tile_xvalue" : "0",
+      "tile_id" : "magenta-01",
+      "tile_hsl" : "hsl(290, 12%, 96%)"
+    },
+    {
+      "tile_xvalue" : "40",
+      "tile_id" : "magenta-02",
+      "tile_hsl" : "hsl(290, 13%, 94%)"
+    },
+    {
+      "tile_xvalue" : "80",
+      "tile_id" : "magenta-03",
+      "tile_hsl" : "hsl(290, 14%, 90%)"
+    },
+    {
+      "tile_xvalue" : "120",
+      "tile_id" : "magenta-04",
+      "tile_hsl" : "hsl(290, 15%, 85%)"
+    },
+    {
+      "tile_xvalue" : "160",
+      "tile_id" : "magenta-05",
+      "tile_hsl" : "hsl(290, 16%, 80%)"
+    },
+    {
+      "tile_xvalue" : "200",
+      "tile_id" : "magenta-06",
+      "tile_hsl" : "hsl(290, 17%, 75%)"
+    },
+    {
+      "tile_xvalue" : "240",
+      "tile_id" : "magenta-07",
+      "tile_hsl" : "hsl(290, 18%, 70%)"
+    },
+    {
+      "tile_xvalue" : "280",
+      "tile_id" : "magenta-08",
+      "tile_hsl" : "hsl(290, 19%, 65%)"
+    },
+    {
+      "tile_xvalue" : "320",
+      "tile_id" : "magenta-09",
+      "tile_hsl" : "hsl(290, 22%, 60%)"
+    },
+    {
+      "tile_xvalue" : "360",
+      "tile_id" : "magenta-10",
+      "tile_hsl" : "hsl(290, 25%, 55%)"
+    },
+    {
+      "tile_xvalue" : "400",
+      "tile_id" : "magenta-11",
+      "tile_hsl" : "hsl(290, 40%, 50%)"
+    },
+    {
+      "tile_xvalue" : "440",
+      "tile_id" : "magenta-12",
+      "tile_hsl" : "hsl(290, 43%, 45%)"
+    },
+    {
+      "tile_xvalue" : "480",
+      "tile_id" : "magenta-13",
+      "tile_hsl" : "hsl(290, 46%, 40%)"
+    },
+    {
+      "tile_xvalue" : "520",
+      "tile_id" : "magenta-14",
+      "tile_hsl" : "hsl(290, 49%, 35%)"
+    },
+    {
+      "tile_xvalue" : "560",
+      "tile_id" : "magenta-15",
+      "tile_hsl" : "hsl(290, 51%, 30%)"
+    },
+    {
+      "tile_xvalue" : "600",
+      "tile_id" : "magenta-16",
+      "tile_hsl" : "hsl(290, 55%, 25%)"
+    },
+    {
+      "tile_xvalue" : "640",
+      "tile_id" : "magenta-17",
+      "tile_hsl" : "hsl(290, 60%, 20%)"
+    },
+    {
+      "tile_xvalue" : "680",
+      "tile_id" : "magenta-18",
+      "tile_hsl" : "hsl(290, 70%, 16%)"
+    },
+    {
+      "tile_xvalue" : "720",
+      "tile_id" : "magenta-19",
+      "tile_hsl" : "hsl(290, 75%, 12%)"
+    },
+    {
+      "tile_xvalue" : "760",
+      "tile_id" : "magenta-20",
+      "tile_hsl" : "hsl(290, 80%,  8%)"
+    }
+  ],
+
+  "tiles_byzantine" : [
+    {
+      "tile_xvalue" : "0",
+      "tile_id" : "byzantine-01",
+      "tile_hsl" : "hsl(315, 12%, 96%)"
+    },
+    {
+      "tile_xvalue" : "40",
+      "tile_id" : "byzantine-02",
+      "tile_hsl" : "hsl(315, 13%, 94%)"
+    },
+    {
+      "tile_xvalue" : "80",
+      "tile_id" : "byzantine-03",
+      "tile_hsl" : "hsl(315, 14%, 90%)"
+    },
+    {
+      "tile_xvalue" : "120",
+      "tile_id" : "byzantine-04",
+      "tile_hsl" : "hsl(315, 15%, 85%)"
+    },
+    {
+      "tile_xvalue" : "160",
+      "tile_id" : "byzantine-05",
+      "tile_hsl" : "hsl(315, 16%, 80%)"
+    },
+    {
+      "tile_xvalue" : "200",
+      "tile_id" : "byzantine-06",
+      "tile_hsl" : "hsl(315, 17%, 75%)"
+    },
+    {
+      "tile_xvalue" : "240",
+      "tile_id" : "byzantine-07",
+      "tile_hsl" : "hsl(315, 18%, 70%)"
+    },
+    {
+      "tile_xvalue" : "280",
+      "tile_id" : "byzantine-08",
+      "tile_hsl" : "hsl(315, 19%, 65%)"
+    },
+    {
+      "tile_xvalue" : "320",
+      "tile_id" : "byzantine-09",
+      "tile_hsl" : "hsl(315, 22%, 60%)"
+    },
+    {
+      "tile_xvalue" : "360",
+      "tile_id" : "byzantine-10",
+      "tile_hsl" : "hsl(315, 25%, 55%)"
+    },
+    {
+      "tile_xvalue" : "400",
+      "tile_id" : "byzantine-11",
+      "tile_hsl" : "hsl(315, 50%, 50%)"
+    },
+    {
+      "tile_xvalue" : "440",
+      "tile_id" : "byzantine-12",
+      "tile_hsl" : "hsl(315, 55%, 45%)"
+    },
+    {
+      "tile_xvalue" : "480",
+      "tile_id" : "byzantine-13",
+      "tile_hsl" : "hsl(315, 60%, 40%)"
+    },
+    {
+      "tile_xvalue" : "520",
+      "tile_id" : "byzantine-14",
+      "tile_hsl" : "hsl(315, 65%, 35%)"
+    },
+    {
+      "tile_xvalue" : "560",
+      "tile_id" : "byzantine-15",
+      "tile_hsl" : "hsl(315, 70%, 30%)"
+    },
+    {
+      "tile_xvalue" : "600",
+      "tile_id" : "byzantine-16",
+      "tile_hsl" : "hsl(315, 75%, 25%)"
+    },
+    {
+      "tile_xvalue" : "640",
+      "tile_id" : "byzantine-17",
+      "tile_hsl" : "hsl(315, 80%, 20%)"
+    },
+    {
+      "tile_xvalue" : "680",
+      "tile_id" : "byzantine-18",
+      "tile_hsl" : "hsl(315, 85%, 16%)"
+    },
+    {
+      "tile_xvalue" : "720",
+      "tile_id" : "byzantine-19",
+      "tile_hsl" : "hsl(315, 90%, 12%)"
+    },
+    {
+      "tile_xvalue" : "760",
+      "tile_id" : "byzantine-20",
+      "tile_hsl" : "hsl(315, 100%, 8%)"
+    }
+  ],
+
+  "tiles_red" : [
+    {
+      "tile_xvalue" : "0",
+      "tile_id" : "red-01",
+      "tile_hsl" : "hsl(9, 10%, 96%)"
+    },
+    {
+      "tile_xvalue" : "40",
+      "tile_id" : "red-02",
+      "tile_hsl" : "hsl(9, 13%, 94%)"
+    },
+    {
+      "tile_xvalue" : "80",
+      "tile_id" : "red-03",
+      "tile_hsl" : "hsl(9, 16%, 90%)"
+    },
+    {
+      "tile_xvalue" : "120",
+      "tile_id" : "red-04",
+      "tile_hsl" : "hsl(9, 19%, 85%)"
+    },
+    {
+      "tile_xvalue" : "160",
+      "tile_id" : "red-05",
+      "tile_hsl" : "hsl(9, 22%, 80%)"
+    },
+    {
+      "tile_xvalue" : "200",
+      "tile_id" : "red-06",
+      "tile_hsl" : "hsl(9, 25%, 75%)"
+    },
+    {
+      "tile_xvalue" : "240",
+      "tile_id" : "red-07",
+      "tile_hsl" : "hsl(9, 28%, 70%)"
+    },
+    {
+      "tile_xvalue" : "280",
+      "tile_id" : "red-08",
+      "tile_hsl" : "hsl(9, 31%, 65%)"
+    },
+    {
+      "tile_xvalue" : "320",
+      "tile_id" : "red-09",
+      "tile_hsl" : "hsl(9, 34%, 60%)"
+    },
+    {
+      "tile_xvalue" : "360",
+      "tile_id" : "red-10",
+      "tile_hsl" : "hsl(9, 37%, 55%)"
+    },
+    {
+      "tile_xvalue" : "400",
+      "tile_id" : "red-11",
+      "tile_hsl" : "hsl(9, 70%, 50%)"
+    },
+    {
+      "tile_xvalue" : "440",
+      "tile_id" : "red-12",
+      "tile_hsl" : "hsl(9, 73%, 45%)"
+    },
+    {
+      "tile_xvalue" : "480",
+      "tile_id" : "red-13",
+      "tile_hsl" : "hsl(9, 76%, 40%)"
+    },
+    {
+      "tile_xvalue" : "520",
+      "tile_id" : "red-14",
+      "tile_hsl" : "hsl(9, 79%, 35%)"
+    },
+    {
+      "tile_xvalue" : "560",
+      "tile_id" : "red-15",
+      "tile_hsl" : "hsl(9, 82%, 30%)"
+    },
+    {
+      "tile_xvalue" : "600",
+      "tile_id" : "red-16",
+      "tile_hsl" : "hsl(9, 85%, 25%)"
+    },
+    {
+      "tile_xvalue" : "640",
+      "tile_id" : "red-17",
+      "tile_hsl" : "hsl(9, 90%, 20%)"
+    },
+    {
+      "tile_xvalue" : "680",
+      "tile_id" : "red-18",
+      "tile_hsl" : "hsl(9, 94%, 16%)"
+    },
+    {
+      "tile_xvalue" : "720",
+      "tile_id" : "red-19",
+      "tile_hsl" : "hsl(9, 98%, 12%)"
+    },
+    {
+      "tile_xvalue" : "760",
+      "tile_id" : "red-20",
+      "tile_hsl" : "hsl(9, 100%, 8%)"
+    }
+  ],
+
+  "tiles_vermilion" : [
+    {
+      "tile_xvalue" : "0",
+      "tile_id" : "vermilion-01",
+      "tile_hsl" : "hsl(3, 10%, 96%)"
+    },
+    {
+      "tile_xvalue" : "40",
+      "tile_id" : "vermilion-02",
+      "tile_hsl" : "hsl(3, 13%, 94%)"
+    },
+    {
+      "tile_xvalue" : "80",
+      "tile_id" : "vermilion-03",
+      "tile_hsl" : "hsl(3, 16%, 90%)"
+    },
+    {
+      "tile_xvalue" : "120",
+      "tile_id" : "vermilion-04",
+      "tile_hsl" : "hsl(3, 19%, 85%)"
+    },
+    {
+      "tile_xvalue" : "160",
+      "tile_id" : "vermilion-05",
+      "tile_hsl" : "hsl(3, 22%, 80%)"
+    },
+    {
+      "tile_xvalue" : "200",
+      "tile_id" : "vermilion-06",
+      "tile_hsl" : "hsl(3, 25%, 75%)"
+    },
+    {
+      "tile_xvalue" : "240",
+      "tile_id" : "vermilion-07",
+      "tile_hsl" : "hsl(3, 28%, 70%)"
+    },
+    {
+      "tile_xvalue" : "280",
+      "tile_id" : "vermilion-08",
+      "tile_hsl" : "hsl(3, 31%, 65%)"
+    },
+    {
+      "tile_xvalue" : "320",
+      "tile_id" : "vermilion-09",
+      "tile_hsl" : "hsl(3, 34%, 60%)"
+    },
+    {
+      "tile_xvalue" : "360",
+      "tile_id" : "vermilion-10",
+      "tile_hsl" : "hsl(3, 37%, 55%)"
+    },
+    {
+      "tile_xvalue" : "400",
+      "tile_id" : "vermilion-11",
+      "tile_hsl" : "hsl(3, 70%, 50%)"
+    },
+    {
+      "tile_xvalue" : "440",
+      "tile_id" : "vermilion-12",
+      "tile_hsl" : "hsl(3, 73%, 45%)"
+    },
+    {
+      "tile_xvalue" : "480",
+      "tile_id" : "vermilion-13",
+      "tile_hsl" : "hsl(3, 76%, 40%)"
+    },
+    {
+      "tile_xvalue" : "520",
+      "tile_id" : "vermilion-14",
+      "tile_hsl" : "hsl(3, 79%, 35%)"
+    },
+    {
+      "tile_xvalue" : "560",
+      "tile_id" : "vermilion-15",
+      "tile_hsl" : "hsl(3, 82%, 30%)"
+    },
+    {
+      "tile_xvalue" : "600",
+      "tile_id" : "vermilion-16",
+      "tile_hsl" : "hsl(3, 85%, 25%)"
+    },
+    {
+      "tile_xvalue" : "640",
+      "tile_id" : "vermilion-17",
+      "tile_hsl" : "hsl(3, 90%, 20%)"
+    },
+    {
+      "tile_xvalue" : "680",
+      "tile_id" : "vermilion-18",
+      "tile_hsl" : "hsl(3, 94%, 16%)"
+    },
+    {
+      "tile_xvalue" : "720",
+      "tile_id" : "vermilion-19",
+      "tile_hsl" : "hsl(3, 98%, 12%)"
+    },
+    {
+      "tile_xvalue" : "760",
+      "tile_id" : "vermilion-20",
+      "tile_hsl" : "hsl(3, 100%,  8%)"
+    }
+  ],
+
+  "tiles_scarlet" : [
+    {
+      "tile_xvalue" : "0",
+      "tile_id" : "scarlet-01",
+      "tile_hsl" : "hsl(3, 10%, 96%)"
+    },
+    {
+      "tile_xvalue" : "40",
+      "tile_id" : "scarlet-02",
+      "tile_hsl" : "hsl(3, 13%, 94%)"
+    },
+    {
+      "tile_xvalue" : "80",
+      "tile_id" : "scarlet-03",
+      "tile_hsl" : "hsl(3, 16%, 90%)"
+    },
+    {
+      "tile_xvalue" : "120",
+      "tile_id" : "scarlet-04",
+      "tile_hsl" : "hsl(3, 19%, 85%)"
+    },
+    {
+      "tile_xvalue" : "160",
+      "tile_id" : "scarlet-05",
+      "tile_hsl" : "hsl(3, 22%, 80%)"
+    },
+    {
+      "tile_xvalue" : "200",
+      "tile_id" : "scarlet-06",
+      "tile_hsl" : "hsl(3, 25%, 75%)"
+    },
+    {
+      "tile_xvalue" : "240",
+      "tile_id" : "scarlet-07",
+      "tile_hsl" : "hsl(3, 28%, 70%)"
+    },
+    {
+      "tile_xvalue" : "280",
+      "tile_id" : "scarlet-08",
+      "tile_hsl" : "hsl(3, 31%, 65%)"
+    },
+    {
+      "tile_xvalue" : "320",
+      "tile_id" : "scarlet-09",
+      "tile_hsl" : "hsl(3, 34%, 60%)"
+    },
+    {
+      "tile_xvalue" : "360",
+      "tile_id" : "scarlet-10",
+      "tile_hsl" : "hsl(3, 37%, 55%)"
+    },
+    {
+      "tile_xvalue" : "400",
+      "tile_id" : "scarlet-11",
+      "tile_hsl" : "hsl(3, 70%, 50%)"
+    },
+    {
+      "tile_xvalue" : "440",
+      "tile_id" : "scarlet-12",
+      "tile_hsl" : "hsl(3, 73%, 45%)"
+    },
+    {
+      "tile_xvalue" : "480",
+      "tile_id" : "scarlet-13",
+      "tile_hsl" : "hsl(3, 76%, 40%)"
+    },
+    {
+      "tile_xvalue" : "520",
+      "tile_id" : "scarlet-14",
+      "tile_hsl" : "hsl(3, 79%, 35%)"
+    },
+    {
+      "tile_xvalue" : "560",
+      "tile_id" : "scarlet-15",
+      "tile_hsl" : "hsl(3, 82%, 30%)"
+    },
+    {
+      "tile_xvalue" : "600",
+      "tile_id" : "scarlet-16",
+      "tile_hsl" : "hsl(3, 85%, 25%)"
+    },
+    {
+      "tile_xvalue" : "640",
+      "tile_id" : "scarlet-17",
+      "tile_hsl" : "hsl(3, 90%, 20%)"
+    },
+    {
+      "tile_xvalue" : "680",
+      "tile_id" : "scarlet-18",
+      "tile_hsl" : "hsl(3, 94%, 16%)"
+    },
+    {
+      "tile_xvalue" : "720",
+      "tile_id" : "scarlet-19",
+      "tile_hsl" : "hsl(3, 98%, 12%)"
+    },
+    {
+      "tile_xvalue" : "760",
+      "tile_id" : "scarlet-20",
+      "tile_hsl" : "hsl(3, 100%,  8%)"
+    }
+  ],
+
+  "tiles_coral" : [
+    {
+      "tile_xvalue" : "0",
+      "tile_id" : "coral-01",
+      "tile_hsl" : "hsl(15, 18%, 96%)"
+    },
+    {
+      "tile_xvalue" : "40",
+      "tile_id" : "coral-02",
+      "tile_hsl" : "hsl(15, 21%, 94%)"
+    },
+    {
+      "tile_xvalue" : "80",
+      "tile_id" : "coral-03",
+      "tile_hsl" : "hsl(15, 24%, 90%)"
+    },
+    {
+      "tile_xvalue" : "120",
+      "tile_id" : "coral-04",
+      "tile_hsl" : "hsl(15, 27%, 85%)"
+    },
+    {
+      "tile_xvalue" : "160",
+      "tile_id" : "coral-05",
+      "tile_hsl" : "hsl(15, 30%, 80%)"
+    },
+    {
+      "tile_xvalue" : "200",
+      "tile_id" : "coral-06",
+      "tile_hsl" : "hsl(15, 33%, 75%)"
+    },
+    {
+      "tile_xvalue" : "240",
+      "tile_id" : "coral-07",
+      "tile_hsl" : "hsl(15, 36%, 70%)"
+    },
+    {
+      "tile_xvalue" : "280",
+      "tile_id" : "coral-08",
+      "tile_hsl" : "hsl(15, 39%, 65%)"
+    },
+    {
+      "tile_xvalue" : "320",
+      "tile_id" : "coral-09",
+      "tile_hsl" : "hsl(15, 42%, 60%)"
+    },
+    {
+      "tile_xvalue" : "360",
+      "tile_id" : "coral-10",
+      "tile_hsl" : "hsl(15, 45%, 55%)"
+    },
+    {
+      "tile_xvalue" : "400",
+      "tile_id" : "coral-11",
+      "tile_hsl" : "hsl(15, 65%, 50%)"
+    },
+    {
+      "tile_xvalue" : "440",
+      "tile_id" : "coral-12",
+      "tile_hsl" : "hsl(15, 70%, 45%)"
+    },
+    {
+      "tile_xvalue" : "480",
+      "tile_id" : "coral-13",
+      "tile_hsl" : "hsl(15, 75%, 40%)"
+    },
+    {
+      "tile_xvalue" : "520",
+      "tile_id" : "coral-14",
+      "tile_hsl" : "hsl(15, 80%, 35%)"
+    },
+    {
+      "tile_xvalue" : "560",
+      "tile_id" : "coral-15",
+      "tile_hsl" : "hsl(15, 83%, 30%)"
+    },
+    {
+      "tile_xvalue" : "600",
+      "tile_id" : "coral-16",
+      "tile_hsl" : "hsl(15, 86%, 25%)"
+    },
+    {
+      "tile_xvalue" : "640",
+      "tile_id" : "coral-17",
+      "tile_hsl" : "hsl(15, 90%, 20%)"
+    },
+    {
+      "tile_xvalue" : "680",
+      "tile_id" : "coral-18",
+      "tile_hsl" : "hsl(15, 94%, 16%)"
+    },
+    {
+      "tile_xvalue" : "720",
+      "tile_id" : "coral-19",
+      "tile_hsl" : "hsl(15, 98%, 12%)"
+    },
+    {
+      "tile_xvalue" : "760",
+      "tile_id" : "coral-20",
+      "tile_hsl" : "hsl(15, 100%, 8%)"
+    }
+  ],
+
+  "tiles_tangelo" : [
+    {
+      "tile_xvalue" : "0",
+      "tile_id" : "tangelo-01",
+      "tile_hsl" : "hsl(22, 18%, 96%)"
+    },
+    {
+      "tile_xvalue" : "40",
+      "tile_id" : "tangelo-02",
+      "tile_hsl" : "hsl(22, 21%, 94%)"
+    },
+    {
+      "tile_xvalue" : "80",
+      "tile_id" : "tangelo-03",
+      "tile_hsl" : "hsl(22, 24%, 90%)"
+    },
+    {
+      "tile_xvalue" : "120",
+      "tile_id" : "tangelo-04",
+      "tile_hsl" : "hsl(22, 27%, 85%)"
+    },
+    {
+      "tile_xvalue" : "160",
+      "tile_id" : "tangelo-05",
+      "tile_hsl" : "hsl(22, 30%, 80%)"
+    },
+    {
+      "tile_xvalue" : "200",
+      "tile_id" : "tangelo-06",
+      "tile_hsl" : "hsl(22, 33%, 75%)"
+    },
+    {
+      "tile_xvalue" : "240",
+      "tile_id" : "tangelo-07",
+      "tile_hsl" : "hsl(22, 36%, 70%)"
+    },
+    {
+      "tile_xvalue" : "280",
+      "tile_id" : "tangelo-08",
+      "tile_hsl" : "hsl(22, 39%, 65%)"
+    },
+    {
+      "tile_xvalue" : "320",
+      "tile_id" : "tangelo-09",
+      "tile_hsl" : "hsl(22, 42%, 60%)"
+    },
+    {
+      "tile_xvalue" : "360",
+      "tile_id" : "tangelo-10",
+      "tile_hsl" : "hsl(22, 45%, 55%)"
+    },
+    {
+      "tile_xvalue" : "400",
+      "tile_id" : "tangelo-11",
+      "tile_hsl" : "hsl(22, 65%, 50%)"
+    },
+    {
+      "tile_xvalue" : "440",
+      "tile_id" : "tangelo-12",
+      "tile_hsl" : "hsl(22, 70%, 45%)"
+    },
+    {
+      "tile_xvalue" : "480",
+      "tile_id" : "tangelo-13",
+      "tile_hsl" : "hsl(22, 75%, 40%)"
+    },
+    {
+      "tile_xvalue" : "520",
+      "tile_id" : "tangelo-14",
+      "tile_hsl" : "hsl(22, 80%, 35%)"
+    },
+    {
+      "tile_xvalue" : "560",
+      "tile_id" : "tangelo-15",
+      "tile_hsl" : "hsl(22, 83%, 30%)"
+    },
+    {
+      "tile_xvalue" : "600",
+      "tile_id" : "tangelo-16",
+      "tile_hsl" : "hsl(22, 86%, 25%)"
+    },
+    {
+      "tile_xvalue" : "640",
+      "tile_id" : "tangelo-17",
+      "tile_hsl" : "hsl(22, 90%, 20%)"
+    },
+    {
+      "tile_xvalue" : "680",
+      "tile_id" : "tangelo-18",
+      "tile_hsl" : "hsl(22, 94%, 16%)"
+    },
+    {
+      "tile_xvalue" : "720",
+      "tile_id" : "tangelo-19",
+      "tile_hsl" : "hsl(22, 98%, 12%)"
+    },
+    {
+      "tile_xvalue" : "760",
+      "tile_id" : "tangelo-20",
+      "tile_hsl" : "hsl(22, 100%, 8%)"
+    }
+  ],
+
+  "tiles_orange" : [
+    {
+      "tile_xvalue" : "0",
+      "tile_id" : "orange-01",
+      "tile_hsl" : "hsl(30, 23%, 96%)"
+    },
+    {
+      "tile_xvalue" : "40",
+      "tile_id" : "orange-02",
+      "tile_hsl" : "hsl(30, 26%, 94%)"
+    },
+    {
+      "tile_xvalue" : "80",
+      "tile_id" : "orange-03",
+      "tile_hsl" : "hsl(30, 29%, 90%)"
+    },
+    {
+      "tile_xvalue" : "120",
+      "tile_id" : "orange-04",
+      "tile_hsl" : "hsl(30, 32%, 85%)"
+    },
+    {
+      "tile_xvalue" : "160",
+      "tile_id" : "orange-05",
+      "tile_hsl" : "hsl(30, 35%, 80%)"
+    },
+    {
+      "tile_xvalue" : "200",
+      "tile_id" : "orange-06",
+      "tile_hsl" : "hsl(30, 38%, 75%)"
+    },
+    {
+      "tile_xvalue" : "240",
+      "tile_id" : "orange-07",
+      "tile_hsl" : "hsl(30, 41%, 70%)"
+    },
+    {
+      "tile_xvalue" : "280",
+      "tile_id" : "orange-08",
+      "tile_hsl" : "hsl(30, 44%, 65%)"
+    },
+    {
+      "tile_xvalue" : "320",
+      "tile_id" : "orange-09",
+      "tile_hsl" : "hsl(30, 47%, 60%)"
+    },
+    {
+      "tile_xvalue" : "360",
+      "tile_id" : "orange-10",
+      "tile_hsl" : "hsl(30, 50%, 55%)"
+    },
+    {
+      "tile_xvalue" : "400",
+      "tile_id" : "orange-11",
+      "tile_hsl" : "hsl(30, 70%, 50%)"
+    },
+    {
+      "tile_xvalue" : "440",
+      "tile_id" : "orange-12",
+      "tile_hsl" : "hsl(30, 73%, 45%)"
+    },
+    {
+      "tile_xvalue" : "480",
+      "tile_id" : "orange-13",
+      "tile_hsl" : "hsl(30, 76%, 40%)"
+    },
+    {
+      "tile_xvalue" : "520",
+      "tile_id" : "orange-14",
+      "tile_hsl" : "hsl(30, 79%, 35%)"
+    },
+    {
+      "tile_xvalue" : "560",
+      "tile_id" : "orange-15",
+      "tile_hsl" : "hsl(30, 82%, 30%)"
+    },
+    {
+      "tile_xvalue" : "600",
+      "tile_id" : "orange-16",
+      "tile_hsl" : "hsl(30, 85%, 25%)"
+    },
+    {
+      "tile_xvalue" : "640",
+      "tile_id" : "orange-17",
+      "tile_hsl" : "hsl(30, 86%, 20%)"
+    },
+    {
+      "tile_xvalue" : "680",
+      "tile_id" : "orange-18",
+      "tile_hsl" : "hsl(30, 90%, 16%)"
+    },
+    {
+      "tile_xvalue" : "720",
+      "tile_id" : "orange-19",
+      "tile_hsl" : "hsl(30, 95%, 12%)"
+    },
+    {
+      "tile_xvalue" : "760",
+      "tile_id" : "orange-20",
+      "tile_hsl" : "hsl(30, 100%, 8%)"
+    }
+  ],
+
+  "tiles_ocre" : [
+
+    {
+      "tile_xvalue" : "0",
+      "tile_id" : "ocre-01",
+      "tile_hsl" : "hsl(38, 23%, 96%)"
+    },
+    {
+      "tile_xvalue" : "40",
+      "tile_id" : "ocre-02",
+      "tile_hsl" : "hsl(38, 26%, 94%)"
+    },
+    {
+      "tile_xvalue" : "80",
+      "tile_id" : "ocre-03",
+      "tile_hsl" : "hsl(38, 29%, 90%)"
+    },
+    {
+      "tile_xvalue" : "120",
+      "tile_id" : "ocre-04",
+      "tile_hsl" : "hsl(38, 32%, 85%)"
+    },
+    {
+      "tile_xvalue" : "160",
+      "tile_id" : "ocre-05",
+      "tile_hsl" : "hsl(38, 35%, 80%)"
+    },
+    {
+      "tile_xvalue" : "200",
+      "tile_id" : "ocre-06",
+      "tile_hsl" : "hsl(38, 38%, 75%)"
+    },
+    {
+      "tile_xvalue" : "240",
+      "tile_id" : "ocre-07",
+      "tile_hsl" : "hsl(38, 41%, 70%)"
+    },
+    {
+      "tile_xvalue" : "280",
+      "tile_id" : "ocre-08",
+      "tile_hsl" : "hsl(38, 44%, 65%)"
+    },
+    {
+      "tile_xvalue" : "320",
+      "tile_id" : "ocre-09",
+      "tile_hsl" : "hsl(38, 47%, 60%)"
+    },
+    {
+      "tile_xvalue" : "360",
+      "tile_id" : "ocre-10",
+      "tile_hsl" : "hsl(38, 50%, 55%)"
+    },
+    {
+      "tile_xvalue" : "400",
+      "tile_id" : "ocre-11",
+      "tile_hsl" : "hsl(38, 60%, 50%)"
+    },
+    {
+      "tile_xvalue" : "440",
+      "tile_id" : "ocre-12",
+      "tile_hsl" : "hsl(38, 63%, 45%)"
+    },
+    {
+      "tile_xvalue" : "480",
+      "tile_id" : "ocre-13",
+      "tile_hsl" : "hsl(38, 66%, 40%)"
+    },
+    {
+      "tile_xvalue" : "520",
+      "tile_id" : "ocre-14",
+      "tile_hsl" : "hsl(38, 69%, 35%)"
+    },
+    {
+      "tile_xvalue" : "560",
+      "tile_id" : "ocre-15",
+      "tile_hsl" : "hsl(38, 73%, 30%)"
+    },
+    {
+      "tile_xvalue" : "600",
+      "tile_id" : "ocre-16",
+      "tile_hsl" : "hsl(38, 75%, 25%)"
+    },
+    {
+      "tile_xvalue" : "640",
+      "tile_id" : "ocre-17",
+      "tile_hsl" : "hsl(38, 80%, 20%)"
+    },
+    {
+      "tile_xvalue" : "680",
+      "tile_id" : "ocre-18",
+      "tile_hsl" : "hsl(38, 90%, 16%)"
+    },
+    {
+      "tile_xvalue" : "720",
+      "tile_id" : "ocre-19",
+      "tile_hsl" : "hsl(38, 95%, 12%)"
+    },
+    {
+      "tile_xvalue" : "760",
+      "tile_id" : "ocre-20",
+      "tile_hsl" : "hsl(38, 100%, 8%)"
+    }
+  ],
+
+  "tiles_yellow" : [
+    {
+      "tile_xvalue" : "0",
+      "tile_id" : "yellow-01",
+      "tile_hsl" : "hsl(45, 23%, 96%)"
+    },
+    {
+      "tile_xvalue" : "40",
+      "tile_id" : "yellow-02",
+      "tile_hsl" : "hsl(45, 26%, 94%)"
+    },
+    {
+      "tile_xvalue" : "80",
+      "tile_id" : "yellow-03",
+      "tile_hsl" : "hsl(45, 29%, 90%)"
+    },
+    {
+      "tile_xvalue" : "120",
+      "tile_id" : "yellow-04",
+      "tile_hsl" : "hsl(45, 32%, 85%)"
+    },
+    {
+      "tile_xvalue" : "160",
+      "tile_id" : "yellow-05",
+      "tile_hsl" : "hsl(45, 35%, 80%)"
+    },
+    {
+      "tile_xvalue" : "200",
+      "tile_id" : "yellow-06",
+      "tile_hsl" : "hsl(45, 38%, 75%)"
+    },
+    {
+      "tile_xvalue" : "240",
+      "tile_id" : "yellow-07",
+      "tile_hsl" : "hsl(45, 41%, 70%)"
+    },
+    {
+      "tile_xvalue" : "280",
+      "tile_id" : "yellow-08",
+      "tile_hsl" : "hsl(45, 44%, 65%)"
+    },
+    {
+      "tile_xvalue" : "320",
+      "tile_id" : "yellow-09",
+      "tile_hsl" : "hsl(45, 47%, 60%)"
+    },
+    {
+      "tile_xvalue" : "360",
+      "tile_id" : "yellow-10",
+      "tile_hsl" : "hsl(45, 50%, 55%)"
+    },
+    {
+      "tile_xvalue" : "400",
+      "tile_id" : "yellow-11",
+      "tile_hsl" : "hsl(45, 60%, 50%)"
+    },
+    {
+      "tile_xvalue" : "440",
+      "tile_id" : "yellow-12",
+      "tile_hsl" : "hsl(45, 63%, 45%)"
+    },
+    {
+      "tile_xvalue" : "480",
+      "tile_id" : "yellow-13",
+      "tile_hsl" : "hsl(45, 66%, 40%)"
+    },
+    {
+      "tile_xvalue" : "520",
+      "tile_id" : "yellow-14",
+      "tile_hsl" : "hsl(45, 69%, 35%)"
+    },
+    {
+      "tile_xvalue" : "560",
+      "tile_id" : "yellow-15",
+      "tile_hsl" : "hsl(45, 73%, 30%)"
+    },
+    {
+      "tile_xvalue" : "600",
+      "tile_id" : "yellow-16",
+      "tile_hsl" : "hsl(45, 75%, 25%)"
+    },
+    {
+      "tile_xvalue" : "640",
+      "tile_id" : "yellow-17",
+      "tile_hsl" : "hsl(45, 80%, 20%)"
+    },
+    {
+      "tile_xvalue" : "680",
+      "tile_id" : "yellow-18",
+      "tile_hsl" : "hsl(45, 90%, 16%)"
+    },
+    {
+      "tile_xvalue" : "720",
+      "tile_id" : "yellow-19",
+      "tile_hsl" : "hsl(45, 95%, 12%)"
+    },
+    {
+      "tile_xvalue" : "760",
+      "tile_id" : "yellow-20",
+      "tile_hsl" : "hsl(45, 100%, 8%)"
+    }
+  ],
+
+  "tiles_gold" : [
+    {
+      "tile_xvalue" : "0",
+      "tile_id" : "gold-01",
+      "tile_hsl" : "hsl(52, 23%, 96%)"
+    },
+    {
+      "tile_xvalue" : "40",
+      "tile_id" : "gold-02",
+      "tile_hsl" : "hsl(52, 26%, 94%)"
+    },
+    {
+      "tile_xvalue" : "80",
+      "tile_id" : "gold-03",
+      "tile_hsl" : "hsl(52, 29%, 90%)"
+    },
+    {
+      "tile_xvalue" : "120",
+      "tile_id" : "gold-04",
+      "tile_hsl" : "hsl(52, 32%, 85%)"
+    },
+    {
+      "tile_xvalue" : "160",
+      "tile_id" : "gold-05",
+      "tile_hsl" : "hsl(52, 35%, 80%)"
+    },
+    {
+      "tile_xvalue" : "200",
+      "tile_id" : "gold-06",
+      "tile_hsl" : "hsl(52, 38%, 75%)"
+    },
+    {
+      "tile_xvalue" : "240",
+      "tile_id" : "gold-07",
+      "tile_hsl" : "hsl(52, 41%, 70%)"
+    },
+    {
+      "tile_xvalue" : "280",
+      "tile_id" : "gold-08",
+      "tile_hsl" : "hsl(52, 44%, 65%)"
+    },
+    {
+      "tile_xvalue" : "320",
+      "tile_id" : "gold-09",
+      "tile_hsl" : "hsl(52, 47%, 60%)"
+    },
+    {
+      "tile_xvalue" : "360",
+      "tile_id" : "gold-10",
+      "tile_hsl" : "hsl(52, 50%, 55%)"
+    },
+    {
+      "tile_xvalue" : "400",
+      "tile_id" : "gold-11",
+      "tile_hsl" : "hsl(52, 60%, 50%)"
+    },
+    {
+      "tile_xvalue" : "440",
+      "tile_id" : "gold-12",
+      "tile_hsl" : "hsl(52, 63%, 45%)"
+    },
+    {
+      "tile_xvalue" : "480",
+      "tile_id" : "gold-13",
+      "tile_hsl" : "hsl(52, 66%, 40%)"
+    },
+    {
+      "tile_xvalue" : "520",
+      "tile_id" : "gold-14",
+      "tile_hsl" : "hsl(52, 69%, 35%)"
+    },
+    {
+      "tile_xvalue" : "560",
+      "tile_id" : "gold-15",
+      "tile_hsl" : "hsl(52, 73%, 30%)"
+    },
+    {
+      "tile_xvalue" : "600",
+      "tile_id" : "gold-16",
+      "tile_hsl" : "hsl(52, 75%, 25%)"
+    },
+    {
+      "tile_xvalue" : "640",
+      "tile_id" : "gold-17",
+      "tile_hsl" : "hsl(52, 80%, 20%)"
+    },
+    {
+      "tile_xvalue" : "680",
+      "tile_id" : "gold-18",
+      "tile_hsl" : "hsl(52, 90%, 16%)"
+    },
+    {
+      "tile_xvalue" : "720",
+      "tile_id" : "gold-19",
+      "tile_hsl" : "hsl(52, 95%, 12%)"
+    },
+    {
+      "tile_xvalue" : "760",
+      "tile_id" : "gold-20",
+      "tile_hsl" : "hsl(52, 100%, 8%)"
+    }
+  ],
+
+  "tiles_acid" : [
+    {
+      "tile_xvalue" : "0",
+      "tile_id" : "acid-01",
+      "tile_hsl" : "hsl(60,  9%, 96%)"
+    },
+    {
+      "tile_xvalue" : "40",
+      "tile_id" : "acid-02",
+      "tile_hsl" : "hsl(60, 11%, 94%)"
+    },
+    {
+      "tile_xvalue" : "80",
+      "tile_id" : "acid-03",
+      "tile_hsl" : "hsl(60, 14%, 90%)"
+    },
+    {
+      "tile_xvalue" : "120",
+      "tile_id" : "acid-04",
+      "tile_hsl" : "hsl(60, 17%, 85%)"
+    },
+    {
+      "tile_xvalue" : "160",
+      "tile_id" : "acid-05",
+      "tile_hsl" : "hsl(60, 20%, 80%)"
+    },
+    {
+      "tile_xvalue" : "200",
+      "tile_id" : "acid-06",
+      "tile_hsl" : "hsl(60, 25%, 75%)"
+    },
+    {
+      "tile_xvalue" : "240",
+      "tile_id" : "acid-07",
+      "tile_hsl" : "hsl(60, 30%, 70%)"
+    },
+    {
+      "tile_xvalue" : "280",
+      "tile_id" : "acid-08",
+      "tile_hsl" : "hsl(60, 35%, 65%)"
+    },
+    {
+      "tile_xvalue" : "320",
+      "tile_id" : "acid-09",
+      "tile_hsl" : "hsl(60, 40%, 60%)"
+    },
+    {
+      "tile_xvalue" : "360",
+      "tile_id" : "acid-10",
+      "tile_hsl" : "hsl(60, 45%, 55%)"
+    },
+    {
+      "tile_xvalue" : "400",
+      "tile_id" : "acid-11",
+      "tile_hsl" : "hsl(60, 50%, 50%)"
+    },
+    {
+      "tile_xvalue" : "440",
+      "tile_id" : "acid-12",
+      "tile_hsl" : "hsl(60, 52%, 45%)"
+    },
+    {
+      "tile_xvalue" : "480",
+      "tile_id" : "acid-13",
+      "tile_hsl" : "hsl(60, 55%, 40%)"
+    },
+    {
+      "tile_xvalue" : "520",
+      "tile_id" : "acid-14",
+      "tile_hsl" : "hsl(60, 60%, 35%)"
+    },
+    {
+      "tile_xvalue" : "560",
+      "tile_id" : "acid-15",
+      "tile_hsl" : "hsl(60, 65%, 30%)"
+    },
+    {
+      "tile_xvalue" : "600",
+      "tile_id" : "acid-16",
+      "tile_hsl" : "hsl(60, 70%, 25%)"
+    },
+    {
+      "tile_xvalue" : "640",
+      "tile_id" : "acid-17",
+      "tile_hsl" : "hsl(60, 80%, 20%)"
+    },
+    {
+      "tile_xvalue" : "680",
+      "tile_id" : "acid-18",
+      "tile_hsl" : "hsl(60, 90%, 16%)"
+    },
+    {
+      "tile_xvalue" : "720",
+      "tile_id" : "acid-19",
+      "tile_hsl" : "hsl(60, 95%, 12%)"
+    },
+    {
+      "tile_xvalue" : "760",
+      "tile_id" : "acid-20",
+      "tile_hsl" : "hsl(60, 100%, 8%)"
+    }
+  ],
+
+  "tiles_lemon" : [
+    {
+      "tile_xvalue" : "0",
+      "tile_id" : "lemon-01",
+      "tile_hsl" : "hsl(75, 23%, 96%)"
+    },
+    {
+      "tile_xvalue" : "40",
+      "tile_id" : "lemon-02",
+      "tile_hsl" : "hsl(75, 24%, 94%)"
+    },
+    {
+      "tile_xvalue" : "80",
+      "tile_id" : "lemon-03",
+      "tile_hsl" : "hsl(75, 25%, 90%)"
+    },
+    {
+      "tile_xvalue" : "120",
+      "tile_id" : "lemon-04",
+      "tile_hsl" : "hsl(75, 26%, 85%)"
+    },
+    {
+      "tile_xvalue" : "160",
+      "tile_id" : "lemon-05",
+      "tile_hsl" : "hsl(75, 27%, 80%)"
+    },
+    {
+      "tile_xvalue" : "200",
+      "tile_id" : "lemon-06",
+      "tile_hsl" : "hsl(75, 28%, 75%)"
+    },
+    {
+      "tile_xvalue" : "240",
+      "tile_id" : "lemon-07",
+      "tile_hsl" : "hsl(75, 32%, 70%)"
+    },
+    {
+      "tile_xvalue" : "280",
+      "tile_id" : "lemon-08",
+      "tile_hsl" : "hsl(75, 34%, 65%)"
+    },
+    {
+      "tile_xvalue" : "320",
+      "tile_id" : "lemon-09",
+      "tile_hsl" : "hsl(75, 37%, 60%)"
+    },
+    {
+      "tile_xvalue" : "360",
+      "tile_id" : "lemon-10",
+      "tile_hsl" : "hsl(75, 40%, 55%)"
+    },
+    {
+      "tile_xvalue" : "400",
+      "tile_id" : "lemon-11",
+      "tile_hsl" : "hsl(75, 50%, 50%)"
+    },
+    {
+      "tile_xvalue" : "440",
+      "tile_id" : "lemon-12",
+      "tile_hsl" : "hsl(75, 55%, 45%)"
+    },
+    {
+      "tile_xvalue" : "480",
+      "tile_id" : "lemon-13",
+      "tile_hsl" : "hsl(75, 60%, 40%)"
+    },
+    {
+      "tile_xvalue" : "520",
+      "tile_id" : "lemon-14",
+      "tile_hsl" : "hsl(75, 65%, 35%)"
+    },
+    {
+      "tile_xvalue" : "560",
+      "tile_id" : "lemon-15",
+      "tile_hsl" : "hsl(75, 70%, 30%)"
+    },
+    {
+      "tile_xvalue" : "600",
+      "tile_id" : "lemon-16",
+      "tile_hsl" : "hsl(75, 75%, 25%)"
+    },
+    {
+      "tile_xvalue" : "640",
+      "tile_id" : "lemon-17",
+      "tile_hsl" : "hsl(75, 80%, 20%)"
+    },
+    {
+      "tile_xvalue" : "680",
+      "tile_id" : "lemon-18",
+      "tile_hsl" : "hsl(75, 85%, 16%)"
+    },
+    {
+      "tile_xvalue" : "720",
+      "tile_id" : "lemon-19",
+      "tile_hsl" : "hsl(75, 90%, 12%)"
+    },
+    {
+      "tile_xvalue" : "760",
+      "tile_id" : "lemon-20",
+      "tile_hsl" : "hsl(75, 100%, 8%)"
+    }
+  ],
+
+  "tiles_chartreuse" : [
+    {
+      "tile_xvalue" : "0",
+      "tile_id" : "chartreuse-01",
+      "tile_hsl" : "hsl(100, 12%, 96%)"
+    },
+    {
+      "tile_xvalue" : "40",
+      "tile_id" : "chartreuse-02",
+      "tile_hsl" : "hsl(100, 16%, 94%)"
+    },
+    {
+      "tile_xvalue" : "80",
+      "tile_id" : "chartreuse-03",
+      "tile_hsl" : "hsl(100, 19%, 90%)"
+    },
+    {
+      "tile_xvalue" : "120",
+      "tile_id" : "chartreuse-04",
+      "tile_hsl" : "hsl(100, 21%, 85%)"
+    },
+    {
+      "tile_xvalue" : "160",
+      "tile_id" : "chartreuse-05",
+      "tile_hsl" : "hsl(100, 24%, 80%)"
+    },
+    {
+      "tile_xvalue" : "200",
+      "tile_id" : "chartreuse-06",
+      "tile_hsl" : "hsl(100, 27%, 75%)"
+    },
+    {
+      "tile_xvalue" : "240",
+      "tile_id" : "chartreuse-07",
+      "tile_hsl" : "hsl(100, 30%, 70%)"
+    },
+    {
+      "tile_xvalue" : "280",
+      "tile_id" : "chartreuse-08",
+      "tile_hsl" : "hsl(100, 34%, 65%)"
+    },
+    {
+      "tile_xvalue" : "320",
+      "tile_id" : "chartreuse-09",
+      "tile_hsl" : "hsl(100, 37%, 60%)"
+    },
+    {
+      "tile_xvalue" : "360",
+      "tile_id" : "chartreuse-10",
+      "tile_hsl" : "hsl(100, 40%, 55%)"
+    },
+    {
+      "tile_xvalue" : "400",
+      "tile_id" : "chartreuse-11",
+      "tile_hsl" : "hsl(100, 50%, 50%)"
+    },
+    {
+      "tile_xvalue" : "440",
+      "tile_id" : "chartreuse-12",
+      "tile_hsl" : "hsl(100, 55%, 45%)"
+    },
+    {
+      "tile_xvalue" : "480",
+      "tile_id" : "chartreuse-13",
+      "tile_hsl" : "hsl(100, 60%, 40%)"
+    },
+    {
+      "tile_xvalue" : "520",
+      "tile_id" : "chartreuse-14",
+      "tile_hsl" : "hsl(100, 65%, 35%)"
+    },
+    {
+      "tile_xvalue" : "560",
+      "tile_id" : "chartreuse-15",
+      "tile_hsl" : "hsl(100, 70%, 30%)"
+    },
+    {
+      "tile_xvalue" : "600",
+      "tile_id" : "chartreuse-16",
+      "tile_hsl" : "hsl(100, 75%, 25%)"
+    },
+    {
+      "tile_xvalue" : "640",
+      "tile_id" : "chartreuse-17",
+      "tile_hsl" : "hsl(100, 80%, 20%)"
+    },
+    {
+      "tile_xvalue" : "680",
+      "tile_id" : "chartreuse-18",
+      "tile_hsl" : "hsl(100, 85%, 16%)"
+    },
+    {
+      "tile_xvalue" : "720",
+      "tile_id" : "chartreuse-19",
+      "tile_hsl" : "hsl(100, 90%, 12%)"
+    },
+    {
+      "tile_xvalue" : "760",
+      "tile_id" : "chartreuse-20",
+      "tile_hsl" : "hsl(100, 100%, 8%)"
+    }
+  ],
+
+  "tiles_lime" : [
+    {
+      "tile_xvalue" : "0",
+      "tile_id" : "lime-01",
+      "tile_hsl" : "hsl(130,  8%, 96%)"
+    },
+    {
+      "tile_xvalue" : "40",
+      "tile_id" : "lime-02",
+      "tile_hsl" : "hsl(130, 10%, 94%)"
+    },
+    {
+      "tile_xvalue" : "80",
+      "tile_id" : "lime-03",
+      "tile_hsl" : "hsl(130, 12%, 90%)"
+    },
+    {
+      "tile_xvalue" : "120",
+      "tile_id" : "lime-04",
+      "tile_hsl" : "hsl(130, 14%, 85%)"
+    },
+    {
+      "tile_xvalue" : "160",
+      "tile_id" : "lime-05",
+      "tile_hsl" : "hsl(130, 15%, 80%)"
+    },
+    {
+      "tile_xvalue" : "200",
+      "tile_id" : "lime-06",
+      "tile_hsl" : "hsl(130, 20%, 75%)"
+    },
+    {
+      "tile_xvalue" : "240",
+      "tile_id" : "lime-07",
+      "tile_hsl" : "hsl(130, 25%, 70%)"
+    },
+    {
+      "tile_xvalue" : "280",
+      "tile_id" : "lime-08",
+      "tile_hsl" : "hsl(130, 30%, 65%)"
+    },
+    {
+      "tile_xvalue" : "320",
+      "tile_id" : "lime-09",
+      "tile_hsl" : "hsl(130, 35%, 60%)"
+    },
+    {
+      "tile_xvalue" : "360",
+      "tile_id" : "lime-10",
+      "tile_hsl" : "hsl(130, 40%, 55%)"
+    },
+    {
+      "tile_xvalue" : "400",
+      "tile_id" : "lime-11",
+      "tile_hsl" : "hsl(130, 50%, 50%)"
+    },
+    {
+      "tile_xvalue" : "440",
+      "tile_id" : "lime-12",
+      "tile_hsl" : "hsl(130, 55%, 45%)"
+    },
+    {
+      "tile_xvalue" : "480",
+      "tile_id" : "lime-13",
+      "tile_hsl" : "hsl(130, 60%, 40%)"
+    },
+    {
+      "tile_xvalue" : "520",
+      "tile_id" : "lime-14",
+      "tile_hsl" : "hsl(130, 65%, 35%)"
+    },
+    {
+      "tile_xvalue" : "560",
+      "tile_id" : "lime-15",
+      "tile_hsl" : "hsl(130, 70%, 30%)"
+    },
+    {
+      "tile_xvalue" : "600",
+      "tile_id" : "lime-16",
+      "tile_hsl" : "hsl(130, 75%, 25%)"
+    },
+    {
+      "tile_xvalue" : "640",
+      "tile_id" : "lime-17",
+      "tile_hsl" : "hsl(130, 80%, 20%)"
+    },
+    {
+      "tile_xvalue" : "680",
+      "tile_id" : "lime-18",
+      "tile_hsl" : "hsl(130, 85%, 16%)"
+    },
+    {
+      "tile_xvalue" : "720",
+      "tile_id" : "lime-19",
+      "tile_hsl" : "hsl(130, 90%, 12%)"
+    },
+    {
+      "tile_xvalue" : "760",
+      "tile_id" : "lime-20",
+      "tile_hsl" : "hsl(130, 100%, 8%)"
+    }
+  ],
+
+  "tiles_green" : [
+    {
+      "tile_xvalue" : "0",
+      "tile_id" : "green-01",
+      "tile_hsl" : "hsl(155, 4%, 96%)"
+    },
+    {
+      "tile_xvalue" : "40",
+      "tile_id" : "green-02",
+      "tile_hsl" : "hsl(155, 8%, 94%)"
+    },
+    {
+      "tile_xvalue" : "80",
+      "tile_id" : "green-03",
+      "tile_hsl" : "hsl(155, 12%, 90%)"
+    },
+    {
+      "tile_xvalue" : "120",
+      "tile_id" : "green-04",
+      "tile_hsl" : "hsl(155, 16%, 85%)"
+    },
+    {
+      "tile_xvalue" : "160",
+      "tile_id" : "green-05",
+      "tile_hsl" : "hsl(155, 20%, 80%)"
+    },
+    {
+      "tile_xvalue" : "200",
+      "tile_id" : "green-06",
+      "tile_hsl" : "hsl(155, 24%, 75%)"
+    },
+    {
+      "tile_xvalue" : "240",
+      "tile_id" : "green-07",
+      "tile_hsl" : "hsl(155, 28%, 70%)"
+    },
+    {
+      "tile_xvalue" : "280",
+      "tile_id" : "green-08",
+      "tile_hsl" : "hsl(155, 32%, 65%)"
+    },
+    {
+      "tile_xvalue" : "320",
+      "tile_id" : "green-09",
+      "tile_hsl" : "hsl(155, 36%, 60%)"
+    },
+    {
+      "tile_xvalue" : "360",
+      "tile_id" : "green-10",
+      "tile_hsl" : "hsl(155, 40%, 55%)"
+    },
+    {
+      "tile_xvalue" : "400",
+      "tile_id" : "green-11",
+      "tile_hsl" : "hsl(155, 50%, 50%)"
+    },
+    {
+      "tile_xvalue" : "440",
+      "tile_id" : "green-12",
+      "tile_hsl" : "hsl(155, 55%, 45%)"
+    },
+    {
+      "tile_xvalue" : "480",
+      "tile_id" : "green-13",
+      "tile_hsl" : "hsl(155, 60%, 40%)"
+    },
+    {
+      "tile_xvalue" : "520",
+      "tile_id" : "green-14",
+      "tile_hsl" : "hsl(155, 70%, 35%)"
+    },
+    {
+      "tile_xvalue" : "560",
+      "tile_id" : "green-15",
+      "tile_hsl" : "hsl(155, 75%, 30%)"
+    },
+    {
+      "tile_xvalue" : "600",
+      "tile_id" : "green-16",
+      "tile_hsl" : "hsl(155, 80%, 25%)"
+    },
+    {
+      "tile_xvalue" : "640",
+      "tile_id" : "green-17",
+      "tile_hsl" : "hsl(155, 85%, 20%)"
+    },
+    {
+      "tile_xvalue" : "680",
+      "tile_id" : "green-18",
+      "tile_hsl" : "hsl(155, 90%, 16%)"
+    },
+    {
+      "tile_xvalue" : "720",
+      "tile_id" : "green-19",
+      "tile_hsl" : "hsl(155, 95%, 12%)"
+    },
+    {
+      "tile_xvalue" : "760",
+      "tile_id" : "green-20",
+      "tile_hsl" : "hsl(155, 100%, 8%)"
+    }
+  ],
+
+  "tiles_teal" : [
+    {
+      "tile_xvalue" : "0",
+      "tile_id" : "teal-01",
+      "tile_hsl" : "hsl(180, 4%, 96%)"
+    },
+    {
+      "tile_xvalue" : "40",
+      "tile_id" : "teal-02",
+      "tile_hsl" : "hsl(180, 8%, 94%)"
+    },
+    {
+      "tile_xvalue" : "80",
+      "tile_id" : "teal-03",
+      "tile_hsl" : "hsl(180, 12%, 90%)"
+    },
+    {
+      "tile_xvalue" : "120",
+      "tile_id" : "teal-04",
+      "tile_hsl" : "hsl(180, 16%, 85%)"
+    },
+    {
+      "tile_xvalue" : "160",
+      "tile_id" : "teal-05",
+      "tile_hsl" : "hsl(180, 20%, 80%)"
+    },
+    {
+      "tile_xvalue" : "200",
+      "tile_id" : "teal-06",
+      "tile_hsl" : "hsl(180, 24%, 75%)"
+    },
+    {
+      "tile_xvalue" : "240",
+      "tile_id" : "teal-07",
+      "tile_hsl" : "hsl(180, 28%, 70%)"
+    },
+    {
+      "tile_xvalue" : "280",
+      "tile_id" : "teal-08",
+      "tile_hsl" : "hsl(180, 32%, 65%)"
+    },
+    {
+      "tile_xvalue" : "320",
+      "tile_id" : "teal-09",
+      "tile_hsl" : "hsl(180, 36%, 60%)"
+    },
+    {
+      "tile_xvalue" : "360",
+      "tile_id" : "teal-10",
+      "tile_hsl" : "hsl(180, 40%, 55%)"
+    },
+    {
+      "tile_xvalue" : "400",
+      "tile_id" : "teal-11",
+      "tile_hsl" : "hsl(180, 50%, 50%)"
+    },
+    {
+      "tile_xvalue" : "440",
+      "tile_id" : "teal-12",
+      "tile_hsl" : "hsl(180, 55%, 45%)"
+    },
+    {
+      "tile_xvalue" : "480",
+      "tile_id" : "teal-13",
+      "tile_hsl" : "hsl(180, 60%, 40%)"
+    },
+    {
+      "tile_xvalue" : "520",
+      "tile_id" : "teal-14",
+      "tile_hsl" : "hsl(180, 70%, 35%)"
+    },
+    {
+      "tile_xvalue" : "560",
+      "tile_id" : "teal-15",
+      "tile_hsl" : "hsl(180, 75%, 30%)"
+    },
+    {
+      "tile_xvalue" : "600",
+      "tile_id" : "teal-16",
+      "tile_hsl" : "hsl(180, 80%, 25%)"
+    },
+    {
+      "tile_xvalue" : "640",
+      "tile_id" : "teal-17",
+      "tile_hsl" : "hsl(180, 85%, 20%)"
+    },
+    {
+      "tile_xvalue" : "680",
+      "tile_id" : "teal-18",
+      "tile_hsl" : "hsl(180, 90%, 16%)"
+    },
+    {
+      "tile_xvalue" : "720",
+      "tile_id" : "teal-19",
+      "tile_hsl" : "hsl(180, 95%, 12%)"
+    },
+    {
+      "tile_xvalue" : "760",
+      "tile_id" : "teal-20",
+      "tile_hsl" : "hsl(180, 100%, 8%)"
+    }
+  ],
+
+  "tiles_pelorous" : [
+    {
+      "tile_xvalue" : "0",
+      "tile_id" : "pelorous-01",
+      "tile_hsl" : "hsl(188, 4%, 96%)"
+    },
+    {
+      "tile_xvalue" : "40",
+      "tile_id" : "pelorous-02",
+      "tile_hsl" : "hsl(188, 8%, 94%)"
+    },
+    {
+      "tile_xvalue" : "80",
+      "tile_id" : "pelorous-03",
+      "tile_hsl" : "hsl(188, 12%, 90%)"
+    },
+    {
+      "tile_xvalue" : "120",
+      "tile_id" : "pelorous-04",
+      "tile_hsl" : "hsl(188, 16%, 85%)"
+    },
+    {
+      "tile_xvalue" : "160",
+      "tile_id" : "pelorous-05",
+      "tile_hsl" : "hsl(188, 20%, 80%)"
+    },
+    {
+      "tile_xvalue" : "200",
+      "tile_id" : "pelorous-06",
+      "tile_hsl" : "hsl(188, 24%, 75%)"
+    },
+    {
+      "tile_xvalue" : "240",
+      "tile_id" : "pelorous-07",
+      "tile_hsl" : "hsl(188, 28%, 70%)"
+    },
+    {
+      "tile_xvalue" : "280",
+      "tile_id" : "pelorous-08",
+      "tile_hsl" : "hsl(188, 32%, 65%)"
+    },
+    {
+      "tile_xvalue" : "320",
+      "tile_id" : "pelorous-09",
+      "tile_hsl" : "hsl(188, 36%, 60%)"
+    },
+    {
+      "tile_xvalue" : "360",
+      "tile_id" : "pelorous-10",
+      "tile_hsl" : "hsl(188, 40%, 55%)"
+    },
+    {
+      "tile_xvalue" : "400",
+      "tile_id" : "pelorous-11",
+      "tile_hsl" : "hsl(188, 50%, 50%)"
+    },
+    {
+      "tile_xvalue" : "440",
+      "tile_id" : "pelorous-12",
+      "tile_hsl" : "hsl(188, 55%, 45%)"
+    },
+    {
+      "tile_xvalue" : "480",
+      "tile_id" : "pelorous-13",
+      "tile_hsl" : "hsl(188, 60%, 40%)"
+    },
+    {
+      "tile_xvalue" : "520",
+      "tile_id" : "pelorous-14",
+      "tile_hsl" : "hsl(188, 70%, 35%)"
+    },
+    {
+      "tile_xvalue" : "560",
+      "tile_id" : "pelorous-15",
+      "tile_hsl" : "hsl(188, 75%, 30%)"
+    },
+    {
+      "tile_xvalue" : "600",
+      "tile_id" : "pelorous-16",
+      "tile_hsl" : "hsl(188, 80%, 25%)"
+    },
+    {
+      "tile_xvalue" : "640",
+      "tile_id" : "pelorous-17",
+      "tile_hsl" : "hsl(188, 85%, 20%)"
+    },
+    {
+      "tile_xvalue" : "680",
+      "tile_id" : "pelorous-18",
+      "tile_hsl" : "hsl(188, 90%, 16%)"
+    },
+    {
+      "tile_xvalue" : "720",
+      "tile_id" : "pelorous-19",
+      "tile_hsl" : "hsl(188, 95%, 12%)"
+    },
+    {
+      "tile_xvalue" : "760",
+      "tile_id" : "pelorous-20",
+      "tile_hsl" : "hsl(188, 100%, 8%)"
+    }
+  ],
+
+  "tiles_monochrome_cyan" : [
+    {
+      "tile_xvalue" : "0",
+      "tile_id" : "monochrome-cyan-01",
+      "tile_hsl" : "hsl(195, 14%, 96%)"
+    },
+    {
+      "tile_xvalue" : "40",
+      "tile_id" : "monochrome-cyan-02",
+      "tile_hsl" : "hsl(195, 14%, 94%)"
+    },
+    {
+      "tile_xvalue" : "80",
+      "tile_id" : "monochrome-cyan-03",
+      "tile_hsl" : "hsl(195, 14%, 90%)"
+    },
+    {
+      "tile_xvalue" : "120",
+      "tile_id" : "monochrome-cyan-04",
+      "tile_hsl" : "hsl(195, 14%, 85%)"
+    },
+    {
+      "tile_xvalue" : "160",
+      "tile_id" : "monochrome-cyan-05",
+      "tile_hsl" : "hsl(195, 14%, 80%)"
+    },
+    {
+      "tile_xvalue" : "200",
+      "tile_id" : "monochrome-cyan-06",
+      "tile_hsl" : "hsl(195, 14%, 75%)"
+    },
+    {
+      "tile_xvalue" : "240",
+      "tile_id" : "monochrome-cyan-07",
+      "tile_hsl" : "hsl(195, 14%, 70%)"
+    },
+    {
+      "tile_xvalue" : "280",
+      "tile_id" : "monochrome-cyan-08",
+      "tile_hsl" : "hsl(195, 14%, 65%)"
+    },
+    {
+      "tile_xvalue" : "320",
+      "tile_id" : "monochrome-cyan-09",
+      "tile_hsl" : "hsl(195, 14%, 60%)"
+    },
+    {
+      "tile_xvalue" : "360",
+      "tile_id" : "monochrome-cyan-10",
+      "tile_hsl" : "hsl(195, 14%, 55%)"
+    },
+    {
+      "tile_xvalue" : "400",
+      "tile_id" : "monochrome-cyan-11",
+      "tile_hsl" : "hsl(195, 14%, 50%)"
+    },
+    {
+      "tile_xvalue" : "440",
+      "tile_id" : "monochrome-cyan-12",
+      "tile_hsl" : "hsl(195, 14%, 45%)"
+    },
+    {
+      "tile_xvalue" : "480",
+      "tile_id" : "monochrome-cyan-13",
+      "tile_hsl" : "hsl(195, 14%, 40%)"
+    },
+    {
+      "tile_xvalue" : "520",
+      "tile_id" : "monochrome-cyan-14",
+      "tile_hsl" : "hsl(195, 14%, 35%)"
+    },
+    {
+      "tile_xvalue" : "560",
+      "tile_id" : "monochrome-cyan-15",
+      "tile_hsl" : "hsl(195, 14%, 30%)"
+    },
+    {
+      "tile_xvalue" : "600",
+      "tile_id" : "monochrome-cyan-16",
+      "tile_hsl" : "hsl(195, 14%, 25%)"
+    },
+    {
+      "tile_xvalue" : "640",
+      "tile_id" : "monochrome-cyan-17",
+      "tile_hsl" : "hsl(195, 14%, 20%)"
+    },
+    {
+      "tile_xvalue" : "680",
+      "tile_id" : "monochrome-cyan-18",
+      "tile_hsl" : "hsl(195, 14%, 16%)"
+    },
+    {
+      "tile_xvalue" : "720",
+      "tile_id" : "monochrome-cyan-19",
+      "tile_hsl" : "hsl(195, 14%, 12%)"
+    },
+    {
+      "tile_xvalue" : "760",
+      "tile_id" : "monochrome-cyan-20",
+      "tile_hsl" : "hsl(195, 14%, 8%)"
+    }
+  ],
+
+ "tiles_gray" : [
+    {
+      "tile_xvalue" : "0",
+      "tile_id" : "gray-01",
+      "tile_hsl" : "hsl(0, 0%, 96%)"
+    },
+    {
+      "tile_xvalue" : "40",
+      "tile_id" : "gray-02",
+      "tile_hsl" : "hsl(0, 0%, 94%)"
+    },
+    {
+      "tile_xvalue" : "80",
+      "tile_id" : "gray-03",
+      "tile_hsl" : "hsl(0, 0%, 90%)"
+    },
+    {
+      "tile_xvalue" : "120",
+      "tile_id" : "gray-04",
+      "tile_hsl" : "hsl(0, 0%, 85%)"
+    },
+    {
+      "tile_xvalue" : "160",
+      "tile_id" : "gray-05",
+      "tile_hsl" : "hsl(0, 0%, 80%)"
+    },
+    {
+      "tile_xvalue" : "200",
+      "tile_id" : "gray-06",
+      "tile_hsl" : "hsl(0, 0%, 75%)"
+    },
+    {
+      "tile_xvalue" : "240",
+      "tile_id" : "gray-07",
+      "tile_hsl" : "hsl(0, 0%, 70%)"
+    },
+    {
+      "tile_xvalue" : "280",
+      "tile_id" : "gray-08",
+      "tile_hsl" : "hsl(0, 0%, 65%)"
+    },
+    {
+      "tile_xvalue" : "320",
+      "tile_id" : "gray-09",
+      "tile_hsl" : "hsl(0, 0%, 60%)"
+    },
+    {
+      "tile_xvalue" : "360",
+      "tile_id" : "gray-10",
+      "tile_hsl" : "hsl(0, 0%, 55%)"
+    },
+    {
+      "tile_xvalue" : "400",
+      "tile_id" : "gray-11",
+      "tile_hsl" : "hsl(0, 0%, 50%)"
+    },
+    {
+      "tile_xvalue" : "440",
+      "tile_id" : "gray-12",
+      "tile_hsl" : "hsl(0, 0%, 45%)"
+    },
+    {
+      "tile_xvalue" : "480",
+      "tile_id" : "gray-13",
+      "tile_hsl" : "hsl(0, 0%, 40%)"
+    },
+    {
+      "tile_xvalue" : "520",
+      "tile_id" : "gray-14",
+      "tile_hsl" : "hsl(0, 0%, 35%)"
+    },
+    {
+      "tile_xvalue" : "560",
+      "tile_id" : "gray-15",
+      "tile_hsl" : "hsl(0, 0%, 30%)"
+    },
+    {
+      "tile_xvalue" : "600",
+      "tile_id" : "gray-16",
+      "tile_hsl" : "hsl(0, 0%, 25%)"
+    },
+    {
+      "tile_xvalue" : "640",
+      "tile_id" : "gray-17",
+      "tile_hsl" : "hsl(0, 0%, 20%)"
+    },
+    {
+      "tile_xvalue" : "680",
+      "tile_id" : "gray-18",
+      "tile_hsl" : "hsl(0, 0%, 16%)"
+    },
+    {
+      "tile_xvalue" : "720",
+      "tile_id" : "gray-19",
+      "tile_hsl" : "hsl(0, 0%, 12%)"
+    },
+    {
+      "tile_xvalue" : "760",
+      "tile_id" : "gray-20",
+      "tile_hsl" : "hsl(0, 0%, 8%)"
+    }
+  ]
+
+}
+

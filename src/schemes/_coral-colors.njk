@@ -1,0 +1,6 @@
+{% import "macros/macro-sass.njk" as macroSass %}// coral
+$coral-colors: (
+{% for sass in tiles_coral -%}
+  {{ macroSass.sassMacro(sass.tile_id, sass.tile_hsl) }}
+{%- endfor -%}
+);

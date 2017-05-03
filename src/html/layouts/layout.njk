@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html class="no-js core no-flexbox" lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>ColrVars</title>
+    <meta name="description" content="colors for colorschemes &mdash; {{ page_title }}">
+    <link rel="stylesheet" href="{{ base_path }}docs/assets/css/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% block head_scripts %}
+      {% include "partials/feature-tests-script.njk" %}
+    {% endblock %}
+<link rel="author" href="https://plus.google.com/+BramdeHaan/posts">
+  </head>
+  <body class="{{ body_classes }}">
+    <div id="page" class="page-wrap">
+        {% block header %}
+          {% include "components/header.njk" %}
+        {% endblock %}
+      <main>
+       <section class="master-palette">
+        <h2><span class="title">Master Palette</span></h2>
+          {% block main %}
+          <!-- This block (and any other block) can be replaced using template inheritance, or leave the default content in -->
+          {% endblock %}
+      </main>
+             {% block footer %}
+               {% include "components/footer.njk" %}
+             {% endblock %}
+    </div><!-- #page.page-wrap -->
+
+      {% block footer_scripts %}
+      <script>{% include "partials/set-color-info.njk" %}</script>
+      {# {% include "partials/livereload-script.njk" %} #}
+      {% endblock %}
+  </body>
+</html>

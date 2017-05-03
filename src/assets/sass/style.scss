@@ -1,0 +1,249 @@
+// @import "settings/colorvars";
+@import 'colrvars';
+
+// @import
+// 'colrvars/acid-colors',
+// 'colrvars/blue-colors',
+// 'colrvars/bluebonnet-colors',
+// 'colrvars/blueryb-colors',
+// 'colrvars/bluesky-colors',
+// 'colrvars/byzantine-colors',
+// 'colrvars/chartreuse-colors',
+// 'colrvars/cobalt-colors',
+// 'colrvars/coral-colors',
+// 'colrvars/cyan-colors',
+// 'colrvars/gold-colors',
+// 'colrvars/gray-colors',
+// 'colrvars/green-colors',
+// 'colrvars/indigo-colors',
+// 'colrvars/lemon-colors',
+// 'colrvars/lime-colors',
+// 'colrvars/magenta-colors',
+// 'colrvars/monochrome-cyan-colors',
+// 'colrvars/ocre-colors',
+// 'colrvars/orange-colors',
+// 'colrvars/pelorous-colors',
+// 'colrvars/plump-colors',
+// 'colrvars/purple-colors',
+// 'colrvars/red-colors',
+// 'colrvars/scarlet-colors',
+// 'colrvars/tangelo-colors',
+// 'colrvars/teal-colors',
+// 'colrvars/vermilion-colors',
+// 'colrvars/violet-colors',
+// 'colrvars/yellow-colors',
+// SVG palette fill colors
+@import
+'palette/palettes',
+// colors and background-colors
+'site/color-classes';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+html {
+  font-size: 16px;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  font: 100%/1.5 AvenirNext-Regular, -apple-system, BlinkMacSystemFont, "Lucida Grande", "Segoe Ui", "Corbel", Verdana, sans-serif;
+  box-sizing: border-box;
+  min-height: 100%;
+  background-color: inherit;
+}
+
+.page-wrap {
+  position: relative;
+  overflow: auto;
+  background: inherit;
+  min-height: 100%;
+  min-height: 100vh;
+}
+
+main {
+  min-height: calc(100vh - 356px);
+  padding-bottom: 120px;
+}
+
+.master-palette {
+  max-width: 60em;
+  margin: 0 auto;
+  padding: 0 2em;
+}
+
+.palette {
+  padding: 0 2em;
+  transition: padding .5s ease-out;
+}
+
+.palette:hover {
+  padding: 0 2em 4em;
+}
+
+header {
+  margin-bottom: 2em;
+  overflow: auto;
+  // display: flex;
+  height: 96px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 3em;
+  padding: .125em 0 0 1em;
+  flex-grow: 1;
+}
+
+h1,
+h2 {
+  font-family: AvenirNextCondensed-Medium, -apple-system, BlinkMacSystemFont, "Lucida Grande", "Segoe Ui", "Corbel", Verdana, sans-serif;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 2em;
+  color: color(monochrome-cyan-16);
+  margin-bottom: 1em;
+}
+
+.wf-active h1,
+.wf-active h2 {
+  font-weight: 400;
+  font-family: "Crete Round", AvenirNextCondensed-Medium, -apple-system, BlinkMacSystemFont, "Lucida Grande", "Segoe Ui", "Corbel", Verdana, sans-serif;
+}
+
+.title {
+  display: inline-block;
+  vertical-align: middle;
+  padding: .125em 1em;
+  background-color: rgba(white, .75);
+}
+
+[id="output"] {
+  text-align: center;
+  padding: 2em 1.5em 2.5em 1.5em;
+  position: fixed;
+  top: 0;
+  left: 0;
+  min-width: 192px;
+}
+
+footer {
+  position: absolute;
+  right:0;bottom:0;left:0;
+  padding: 1em 0;
+  text-align: center;
+  height: 60px;
+}
+
+[id="output"],
+footer a {
+  color: #fff;
+  letter-spacing: 1px;
+  word-spacing: -1px;
+}
+
+svg,
+rect {
+  display: inline-block;
+  vertical-align: top;
+}
+
+rect:hover {
+  cursor: pointer;
+}
+
+.github-corner svg {
+  transition: all .3s;
+}
+
+.github-corner:hover svg[style] {
+  // color: color(red-11) !important;
+  fill: color(monochrome-cyan-18) !important;
+}
+
+code,
+pre {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+
+// Let's center everything and give it breathing room
+section {
+  margin: 3rem auto;
+  overflow: hidden;
+  text-align: center;
+}
+
+// Let's declare our breakpoints
+$breakpoints: (
+  small: 600px,
+  medium: 800px,
+  large: 1000px
+);
+
+// Mixin to detect which breakpoint to use from our above list map
+@mixin wider-than($screen-size) {
+  @if map-has-key($breakpoints, $screen-size) {
+    @media (min-width: map-get($breakpoints, $screen-size)) {
+      @content;
+    }
+  } @else {
+    // Debugging
+    @warn "'#{$screen-size}' has not been declared as a breakpoint."
+  }
+}
+
+// Positioning of color block and variable name
+.derivative-palette {
+  padding-left: 2em;
+  padding-right: 2em;
+
+  .row {
+    overflow: auto;
+    margin: 4em 0;
+  }
+
+  div[class*='-bg'] {
+    float: left;
+    height: 176px;
+    position: relative;
+    width: 100%;
+
+    @include wider-than(small) {
+    }
+
+    @include wider-than(medium) {
+      width: 33.33%;
+    }
+
+    @include wider-than(large) {
+      width: 11.11%;
+    }
+
+    &:before,
+    &:after {
+      background: rgba(0, 0, 0, .4);
+      display: block;
+      line-height: 1.75;
+      position: absolute;
+      width: 100%;
+    }
+
+    &:before {
+      bottom: 28px;
+    }
+
+    &:after {
+      bottom: 0;
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "colr-vars",
+  "version": "1.0.0",
+  "description": "colorsvariables from colorschemes - for designers to play with",
+  "main": "gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://atelierbram@github.com/atelierbram/colr-vars.git"
+  },
+  "keywords": [
+    "colors",
+    "colorschemes",
+    "templating",
+    "nunjucks"
+  ],
+  "author": "Bram de Haan <bramdeh@gmail.com> (http://atelierbramdehaan.nl)",
+  "license": "MIT",
+  "homepage": "https://github.com/atelierbram/colr-vars#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.7.7",
+    "grunt": "^1.0.1",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^2.1.0",
+    "grunt-contrib-uglify": "^2.3.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-nunjucks-2-html": "^3.0.0",
+    "grunt-postcss": "^0.8.0",
+    "grunt-prettify": "^0.4.0",
+    "grunt-sass": "^2.0.0",
+    "load-grunt-tasks": "^3.5.2",
+    "time-grunt": "^1.4.0"
+  }
+}

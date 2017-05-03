@@ -1,0 +1,6 @@
+{% import "macros/macro-sass.njk" as macroSass %}// ocre
+$ocre-colors: (
+{% for sass in tiles_ocre -%}
+  {{ macroSass.sassMacro(sass.tile_id, sass.tile_hsl) }}
+{%- endfor -%}
+);
