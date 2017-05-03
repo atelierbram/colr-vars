@@ -174,7 +174,6 @@ module.exports = function(grunt) {
  copy: {
   main: {
     files: {
-      // 'src/html/partials/all-scripts.njk': 'docs/assets/js/all.js'
       'src/html/partials/set-color-info.njk': 'docs/assets/js/set-color-info.min.js'
       // 'assets/css/style.css': 'docs/assets/css/style.css',
       // 'assets/css/style.min.css': 'docs/assets/css/style.min.css'
