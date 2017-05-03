@@ -66,6 +66,6 @@ _
 assets/
 
 # souremaps
-.map
+*.css.map
 
 .DS_Store
