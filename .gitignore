@@ -62,6 +62,9 @@ typings/
 # experiments in _underscore folder
 _
 
+# for local development
+assets/
+
 # souremaps
 .map
 
