@@ -1,226 +1,219 @@
 {% extends "layouts/layout.njk" %}
-
 {% set base_path = "../" %}
 {% set page_title = "ColrVars<" %}
 {% set body_classes = "index" %}
 {% set main_header_classes = "header" %}
-
 {% import "macros/macro-tile.njk" as macroTile %}
-
-{% block main %}
+{% block main -%}
   {{ super() }}
-
 <div class="palette palette-cyan" id="cyan-palette">
   <svg viewBox="0 0 800 40">
-    {% for tile in tiles_cyan %}
+    {%- for tile in tiles_cyan -%}
       {{ macroTile.tileMacro(tile.tile_xvalue, tile.tile_id, tile.tile_hsl) }}
-    {% endfor %}
+    {%- endfor -%}
   </svg>
 </div>
-
 <div class="palette palette-bluesky" id="bluesky-palette">
   <svg viewBox="0 0 800 40">
-    {% for tile in tiles_bluesky %}
+    {%- for tile in tiles_bluesky -%}
       {{ macroTile.tileMacro(tile.tile_xvalue, tile.tile_id, tile.tile_hsl) }}
-    {% endfor %}
+    {%- endfor -%}
   </svg>
 </div>
-
 <div class="palette palette-cobalt" id="cobalt-palette">
   <svg viewBox="0 0 800 40">
-    {% for tile in tiles_cobalt %}
+    {%- for tile in tiles_cobalt -%}
       {{ macroTile.tileMacro(tile.tile_xvalue, tile.tile_id, tile.tile_hsl) }}
-    {% endfor %}
+    {%- endfor -%}
   </svg>
 </div>
  <div class="palette palette-blueryb" id="blueryb-palette">
   <svg viewBox="0 0 800 40">
-    {% for tile in tiles_blueryb %}
+    {%- for tile in tiles_blueryb -%}
       {{ macroTile.tileMacro(tile.tile_xvalue, tile.tile_id, tile.tile_hsl) }}
-    {% endfor %}
+    {%- endfor -%}
   </svg>
 </div>
  <div class="palette palette-blue" id="blue-palette">
   <svg viewBox="0 0 800 40">
-    {% for tile in tiles_blue %}
+    {%- for tile in tiles_blue -%}
       {{ macroTile.tileMacro(tile.tile_xvalue, tile.tile_id, tile.tile_hsl) }}
-    {% endfor %}
+    {%- endfor -%}
   </svg>
 </div>
  <div class="palette palette-bluebonnet" id="bluebonnet-palette">
   <svg viewBox="0 0 800 40">
-    {% for tile in tiles_bluebonnet %}
+    {%- for tile in tiles_bluebonnet -%}
       {{ macroTile.tileMacro(tile.tile_xvalue, tile.tile_id, tile.tile_hsl) }}
-    {% endfor %}
+    {%- endfor -%}
   </svg>
 </div>
  <div class="palette palette-purple" id="purple-palette">
   <svg viewBox="0 0 800 40">
-    {% for tile in tiles_purple %}
+    {%- for tile in tiles_purple -%}
       {{ macroTile.tileMacro(tile.tile_xvalue, tile.tile_id, tile.tile_hsl) }}
-    {% endfor %}
+    {%- endfor -%}
   </svg>
 </div>
  <div class="palette palette-plump" id="plump-palette">
   <svg viewBox="0 0 800 40">
-    {% for tile in tiles_plump %}
+    {%- for tile in tiles_plump -%}
       {{ macroTile.tileMacro(tile.tile_xvalue, tile.tile_id, tile.tile_hsl) }}
-    {% endfor %}
+    {%- endfor -%}
   </svg>
 </div>
  <div class="palette palette-violet" id="violet-palette">
   <svg viewBox="0 0 800 40">
-    {% for tile in tiles_violet %}
+    {%- for tile in tiles_violet -%}
       {{ macroTile.tileMacro(tile.tile_xvalue, tile.tile_id, tile.tile_hsl) }}
-    {% endfor %}
+    {%- endfor -%}
   </svg>
 </div>
  <div class="palette palette-indigo" id="indigo-palette">
   <svg viewBox="0 0 800 40">
-    {% for tile in tiles_indigo %}
+    {%- for tile in tiles_indigo -%}
       {{ macroTile.tileMacro(tile.tile_xvalue, tile.tile_id, tile.tile_hsl) }}
-    {% endfor %}
+    {%- endfor -%}
   </svg>
 </div>
  <div class="palette palette-magenta" id="magenta-palette">
   <svg viewBox="0 0 800 40">
-    {% for tile in tiles_magenta %}
+    {%- for tile in tiles_magenta -%}
       {{ macroTile.tileMacro(tile.tile_xvalue, tile.tile_id, tile.tile_hsl) }}
-    {% endfor %}
+    {%- endfor -%}
   </svg>
 </div>
  <div class="palette palette-byzantine" id="byzantine-palette">
   <svg viewBox="0 0 800 40">
-    {% for tile in tiles_byzantine %}
+    {%- for tile in tiles_byzantine -%}
       {{ macroTile.tileMacro(tile.tile_xvalue, tile.tile_id, tile.tile_hsl) }}
-    {% endfor %}
+    {%- endfor -%}
   </svg>
 </div>
  <div class="palette palette-red" id="red-palette">
   <svg viewBox="0 0 800 40">
-    {% for tile in tiles_red %}
+    {%- for tile in tiles_red -%}
       {{ macroTile.tileMacro(tile.tile_xvalue, tile.tile_id, tile.tile_hsl) }}
-    {% endfor %}
+    {%- endfor -%}
   </svg>
 </div>
  <div class="palette palette-vermilion" id="vermilion-palette">
   <svg viewBox="0 0 800 40">
-    {% for tile in tiles_vermilion %}
+    {%- for tile in tiles_vermilion -%}
       {{ macroTile.tileMacro(tile.tile_xvalue, tile.tile_id, tile.tile_hsl) }}
-    {% endfor %}
+    {%- endfor -%}
   </svg>
 </div>
  <div class="palette palette-scarlet" id="scarlet-palette">
   <svg viewBox="0 0 800 40">
-    {% for tile in tiles_scarlet %}
+    {%- for tile in tiles_scarlet -%}
       {{ macroTile.tileMacro(tile.tile_xvalue, tile.tile_id, tile.tile_hsl) }}
-    {% endfor %}
+    {%- endfor -%}
   </svg>
 </div>
  <div class="palette palette-coral" id="coral-palette">
   <svg viewBox="0 0 800 40">
-    {% for tile in tiles_coral %}
+    {%- for tile in tiles_coral -%}
       {{ macroTile.tileMacro(tile.tile_xvalue, tile.tile_id, tile.tile_hsl) }}
-    {% endfor %}
+    {%- endfor -%}
   </svg>
 </div>
  <div class="palette palette-tangelo" id="tangelo-palette">
   <svg viewBox="0 0 800 40">
-    {% for tile in tiles_tangelo %}
+    {%- for tile in tiles_tangelo -%}
       {{ macroTile.tileMacro(tile.tile_xvalue, tile.tile_id, tile.tile_hsl) }}
-    {% endfor %}
+    {%- endfor -%}
   </svg>
 </div>
  <div class="palette palette-orange" id="orange-palette">
   <svg viewBox="0 0 800 40">
-    {% for tile in tiles_orange %}
+    {%- for tile in tiles_orange -%}
       {{ macroTile.tileMacro(tile.tile_xvalue, tile.tile_id, tile.tile_hsl) }}
-    {% endfor %}
+    {%- endfor -%}
   </svg>
 </div>
  <div class="palette palette-ocre" id="ocre-palette">
   <svg viewBox="0 0 800 40">
-    {% for tile in tiles_ocre %}
+    {%- for tile in tiles_ocre -%}
       {{ macroTile.tileMacro(tile.tile_xvalue, tile.tile_id, tile.tile_hsl) }}
-    {% endfor %}
+    {%- endfor -%}
   </svg>
 </div>
  <div class="palette palette-yellow" id="yellow-palette">
   <svg viewBox="0 0 800 40">
-    {% for tile in tiles_yellow %}
+    {%- for tile in tiles_yellow -%}
       {{ macroTile.tileMacro(tile.tile_xvalue, tile.tile_id, tile.tile_hsl) }}
-    {% endfor %}
+    {%- endfor -%}
   </svg>
 </div>
  <div class="palette palette-gold" id="gold-palette">
   <svg viewBox="0 0 800 40">
-    {% for tile in tiles_gold %}
+    {%- for tile in tiles_gold -%}
       {{ macroTile.tileMacro(tile.tile_xvalue, tile.tile_id, tile.tile_hsl) }}
-    {% endfor %}
+    {%- endfor -%}
   </svg>
 </div>
  <div class="palette palette-acid" id="acid-palette">
   <svg viewBox="0 0 800 40">
-    {% for tile in tiles_acid %}
+    {%- for tile in tiles_acid -%}
       {{ macroTile.tileMacro(tile.tile_xvalue, tile.tile_id, tile.tile_hsl) }}
-    {% endfor %}
+    {%- endfor -%}
   </svg>
 </div>
  <div class="palette palette-lemon" id="lemon-palette">
   <svg viewBox="0 0 800 40">
-    {% for tile in tiles_lemon %}
+    {%- for tile in tiles_lemon -%}
       {{ macroTile.tileMacro(tile.tile_xvalue, tile.tile_id, tile.tile_hsl) }}
-    {% endfor %}
+    {%- endfor -%}
   </svg>
 </div>
  <div class="palette palette-chartreuse" id="chartreuse-palette">
   <svg viewBox="0 0 800 40">
-    {% for tile in tiles_chartreuse %}
+    {%- for tile in tiles_chartreuse -%}
       {{ macroTile.tileMacro(tile.tile_xvalue, tile.tile_id, tile.tile_hsl) }}
-    {% endfor %}
+    {%- endfor -%}
   </svg>
 </div>
  <div class="palette palette-lime" id="lime-palette">
   <svg viewBox="0 0 800 40">
-    {% for tile in tiles_lime %}
+    {%- for tile in tiles_lime -%}
       {{ macroTile.tileMacro(tile.tile_xvalue, tile.tile_id, tile.tile_hsl) }}
-    {% endfor %}
+    {%- endfor -%}
   </svg>
 </div>
  <div class="palette palette-green" id="green-palette">
   <svg viewBox="0 0 800 40">
-    {% for tile in tiles_green %}
+    {%- for tile in tiles_green -%}
       {{ macroTile.tileMacro(tile.tile_xvalue, tile.tile_id, tile.tile_hsl) }}
-    {% endfor %}
+    {%- endfor -%}
   </svg>
 </div>
  <div class="palette palette-teal" id="teal-palette">
   <svg viewBox="0 0 800 40">
-    {% for tile in tiles_teal %}
+    {%- for tile in tiles_teal -%}
       {{ macroTile.tileMacro(tile.tile_xvalue, tile.tile_id, tile.tile_hsl) }}
-    {% endfor %}
+    {%- endfor -%}
   </svg>
 </div>
  <div class="palette palette-pelorous" id="pelorous-palette">
   <svg viewBox="0 0 800 40">
-    {% for tile in tiles_pelorous %}
+    {%- for tile in tiles_pelorous -%}
       {{ macroTile.tileMacro(tile.tile_xvalue, tile.tile_id, tile.tile_hsl) }}
-    {% endfor %}
+    {%- endfor -%}
   </svg>
 </div>
  <div class="palette palette-monochrome-cyan" id="monochrome-cyan-palette">
   <svg viewBox="0 0 800 40">
-    {% for tile in tiles_monochrome_cyan %}
+    {%- for tile in tiles_monochrome_cyan -%}
       {{ macroTile.tileMacro(tile.tile_xvalue, tile.tile_id, tile.tile_hsl) }}
-    {% endfor %}
+    {%- endfor -%}
   </svg>
 </div>
  <div class="palette palette-gray" id="gray-palette">
   <svg viewBox="0 0 800 40">
-    {% for tile in tiles_gray %}
+    {%- for tile in tiles_gray -%}
       {{ macroTile.tileMacro(tile.tile_xvalue, tile.tile_id, tile.tile_hsl) }}
-    {% endfor %}
+    {%- endfor -%}
   </svg>
 </div>
-
-{% endblock %}
+{%- endblock -%}

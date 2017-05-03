@@ -32,9 +32,9 @@ module.exports = function(grunt) {
   },
   cssmin: {
    dist: {
-    // files: {
-    //  'docs/assets/css/style.min.css': 'docs/assets/css/style.css'
-    // }
+    files: {
+     'docs/assets/css/style.min.css': 'docs/assets/css/style.css'
+    }
    }
   },
   // Watch task
@@ -72,7 +72,8 @@ module.exports = function(grunt) {
   },
    html: {
     files: ["src/**/*.html", "src/**/*.njk"],
-    tasks: ["clean:html", "nunjucks", "prettify"],
+    // tasks: ["clean:html", "nunjucks", "prettify"],
+    tasks: ["clean:html", "nunjucks", "htmlmin"],
     options: {
      spawn: false,
      livereload: true
@@ -129,24 +130,24 @@ module.exports = function(grunt) {
     }
   },
   // Prettify task
-  prettify: {
-   options: {
-    "indent": 1,
-    "indent_char": " ",
-    "brace_style": "collapse",
-    "preserve_newlines": true,
-    "condense": true,
-    "max_preserve_newlines": 2,
-    "unformatted": ["a", "code", "pre"]
-   },
-   all: {
-    expand: true,
-    cwd: "",
-    src: ["docs/**/*.html"],
-    dest: "",
-    ext: ".html"
-   }
-  },
+  // prettify: {
+  //  options: {
+  //   "indent": 1,
+  //   "indent_char": " ",
+  //   "brace_style": "collapse",
+  //   "preserve_newlines": true,
+  //   "condense": true,
+  //   "max_preserve_newlines": 2,
+  //   "unformatted": ["a", "code", "pre"]
+  //  },
+  //  all: {
+  //   expand: true,
+  //   cwd: "",
+  //   src: ["docs#<{(||)}>#*.html"],
+  //   dest: "",
+  //   ext: ".html"
+  //  }
+  // },
 
   uglify: {
    options: {
@@ -180,6 +181,17 @@ module.exports = function(grunt) {
     filter: 'isFile',
   },
 },
+ htmlmin: { // Task
+   dist: { // Target
+     options: { // Target options
+       removeComments: true,
+       collapseWhitespace: true
+     },
+     files: { // Dictionary of files
+       'docs/index.html': 'docs/index.html' // 'destination': 'source'
+     }
+   }
+ },
 
 });
 
@@ -196,10 +208,11 @@ module.exports = function(grunt) {
   "postcss",
   "cssmin",
   "nunjucks",
-  "prettify",
+  // "prettify",
   "uglify",
   "concat",
   "copy",
+  "htmlmin",
   "watch"
  ]);
 };

@@ -1,3 +1,1 @@
-{% macro tileMacro (xvalue, id, hsl) %}
-  <rect width="40" height="40" x="{{ xvalue }}" data-color_id="{{ id }}" data-color_hsl="{{ hsl }}"/>
-{% endmacro %}
+{%- macro tileMacro (xvalue, id, hsl) -%}<rect width="40" height="40" x="{{ xvalue }}" fill="{{ hsl }}" data-color_id="{{ id }}" data-color_hsl="{{ hsl }}"/>{%- endmacro -%}

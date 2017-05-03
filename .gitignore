@@ -62,4 +62,7 @@ typings/
 # experiments in _underscore folder
 _
 
+# souremaps
+.map
+
 .DS_Store

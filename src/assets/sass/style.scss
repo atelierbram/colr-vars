@@ -1,42 +1,11 @@
 // @import "settings/colorvars";
 @import 'colrvars';
 
+// SVG palette fill colors, NOTE: renders very large file with background-classes from all color-variables!
 // @import
-// 'colrvars/acid-colors',
-// 'colrvars/blue-colors',
-// 'colrvars/bluebonnet-colors',
-// 'colrvars/blueryb-colors',
-// 'colrvars/bluesky-colors',
-// 'colrvars/byzantine-colors',
-// 'colrvars/chartreuse-colors',
-// 'colrvars/cobalt-colors',
-// 'colrvars/coral-colors',
-// 'colrvars/cyan-colors',
-// 'colrvars/gold-colors',
-// 'colrvars/gray-colors',
-// 'colrvars/green-colors',
-// 'colrvars/indigo-colors',
-// 'colrvars/lemon-colors',
-// 'colrvars/lime-colors',
-// 'colrvars/magenta-colors',
-// 'colrvars/monochrome-cyan-colors',
-// 'colrvars/ocre-colors',
-// 'colrvars/orange-colors',
-// 'colrvars/pelorous-colors',
-// 'colrvars/plump-colors',
-// 'colrvars/purple-colors',
-// 'colrvars/red-colors',
-// 'colrvars/scarlet-colors',
-// 'colrvars/tangelo-colors',
-// 'colrvars/teal-colors',
-// 'colrvars/vermilion-colors',
-// 'colrvars/violet-colors',
-// 'colrvars/yellow-colors',
-// SVG palette fill colors
-@import
-'palette/palettes',
+// 'palette/palettes'
 // colors and background-colors
-'site/color-classes';
+// 'site/color-classes';
 
 * {
   margin: 0;
@@ -91,15 +60,13 @@ main {
 header {
   margin-bottom: 2em;
   overflow: auto;
-  // display: flex;
   height: 96px;
   text-align: center;
 }
 
 h1 {
   font-size: 3em;
-  padding: .125em 0 0 1em;
-  flex-grow: 1;
+  padding-top: .125em;
 }
 
 h1,
@@ -114,11 +81,11 @@ h2 {
   margin-bottom: 1em;
 }
 
-.wf-active h1,
-.wf-active h2 {
-  font-weight: 400;
-  font-family: "Crete Round", AvenirNextCondensed-Medium, -apple-system, BlinkMacSystemFont, "Lucida Grande", "Segoe Ui", "Corbel", Verdana, sans-serif;
-}
+// .wf-active h1,
+// .wf-active h2 {
+//   font-weight: 400;
+//   font-family: "Crete Round", AvenirNextCondensed-Medium, -apple-system, BlinkMacSystemFont, "Lucida Grande", "Segoe Ui", "Corbel", Verdana, sans-serif;
+// }
 
 .title {
   display: inline-block;
@@ -133,7 +100,7 @@ h2 {
   position: fixed;
   top: 0;
   left: 0;
-  min-width: 192px;
+  min-width: 180px;
 }
 
 footer {
@@ -166,84 +133,103 @@ rect:hover {
 }
 
 .github-corner:hover svg[style] {
-  // color: color(red-11) !important;
   fill: color(monochrome-cyan-18) !important;
 }
 
-code,
-pre {
-  font-family: monospace, monospace;
-  font-size: 1em;
-}
+// code,
+// pre {
+//   font-family: monospace, monospace;
+//   font-size: 1em;
+// }
 
-// Let's center everything and give it breathing room
 section {
   margin: 3rem auto;
   overflow: hidden;
   text-align: center;
 }
 
+// Replaces classes generated in sass functions in `palette/_palette.scss` and `site/color-classes`, to avoid very large unnecessary CSS output
+.cv-cyan-02-bg {
+  background-color: color(cyan-02);
+}
+
+.cv-cobalt-12-fg {
+  color: color(cobalt-12);
+}
+
+.cv-monochrome-cyan-10-bg {
+  background-color: color(monochrome-cyan-10);
+}
+
+.cv-monochrome-cyan-18-bg {
+  background-color: color(monochrome-cyan-18);
+}
+
+.cv-monochrome-cyan-01-fg {
+  color: color(monochrome-cyan-01);
+}
+
 // Let's declare our breakpoints
-$breakpoints: (
-  small: 600px,
-  medium: 800px,
-  large: 1000px
-);
+// $breakpoints: (
+//   small: 600px,
+//   medium: 800px,
+//   large: 1000px
+// );
 
 // Mixin to detect which breakpoint to use from our above list map
-@mixin wider-than($screen-size) {
-  @if map-has-key($breakpoints, $screen-size) {
-    @media (min-width: map-get($breakpoints, $screen-size)) {
-      @content;
-    }
-  } @else {
-    // Debugging
-    @warn "'#{$screen-size}' has not been declared as a breakpoint."
-  }
-}
+// @mixin wider-than($screen-size) {
+//   @if map-has-key($breakpoints, $screen-size) {
+//     @media (min-width: map-get($breakpoints, $screen-size)) {
+//       @content;
+//     }
+//   } @else {
+//     // Debugging
+//     @warn "'#{$screen-size}' has not been declared as a breakpoint."
+//   }
+// }
 
 // Positioning of color block and variable name
-.derivative-palette {
-  padding-left: 2em;
-  padding-right: 2em;
-
-  .row {
-    overflow: auto;
-    margin: 4em 0;
-  }
-
-  div[class*='-bg'] {
-    float: left;
-    height: 176px;
-    position: relative;
-    width: 100%;
-
-    @include wider-than(small) {
-    }
-
-    @include wider-than(medium) {
-      width: 33.33%;
-    }
-
-    @include wider-than(large) {
-      width: 11.11%;
-    }
-
-    &:before,
-    &:after {
-      background: rgba(0, 0, 0, .4);
-      display: block;
-      line-height: 1.75;
-      position: absolute;
-      width: 100%;
-    }
-
-    &:before {
-      bottom: 28px;
-    }
-
-    &:after {
-      bottom: 0;
-    }
-  }
-}
+// .derivative-palette {
+//   padding-left: 2em;
+//   padding-right: 2em;
+//
+//   .row {
+//     overflow: auto;
+//     margin: 4em 0;
+//   }
+//
+//   div[class*='-bg'] {
+//     float: left;
+//     height: 176px;
+//     position: relative;
+//     width: 100%;
+//
+//     @include wider-than(small) {
+//     }
+//
+//     @include wider-than(medium) {
+//       width: 33.33%;
+//     }
+//
+//     @include wider-than(large) {
+//       width: 11.11%;
+//     }
+//
+//     &:before,
+//     &:after {
+//       background: rgba(0, 0, 0, .4);
+//       display: block;
+//       line-height: 1.75;
+//       position: absolute;
+//       width: 100%;
+//     }
+//
+//     &:before {
+//       bottom: 28px;
+//     }
+//
+//     &:after {
+//       bottom: 0;
+//     }
+//   }
+// }
