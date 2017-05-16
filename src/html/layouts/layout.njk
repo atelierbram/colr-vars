@@ -17,11 +17,8 @@
           {% include "components/header.njk" %}
         {%- endblock -%}
       <main>
-       <section class="master-palette">
-        <h2><span class="title">Master Palette</span></h2>
-          {%- block main -%}
-          {%- endblock -%}
-        </section>
+        {%- block main -%}
+        {%- endblock -%}
       </main>
        {%- block footer -%}
          {% include "components/footer.njk" %}
@@ -29,6 +26,7 @@
     </div><!-- #page.page-wrap -->
       {%- block footer_scripts -%}
       <script>{% include "partials/set-color-info.njk" %}</script>
+      <script>{% include "partials/load-google-webfont-script.njk" %}</script>
       {%- endblock -%}
   </body>
 </html>

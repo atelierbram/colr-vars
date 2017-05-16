@@ -1,11 +1,15 @@
 {% extends "layouts/layout.njk" %}
 {% set base_path = "" %}
-{% set page_title = "ColrVars<" %}
+{% set page_title = "ColrVars" %}
+{% set page_type = "index" %}
 {% set body_classes = "index" %}
 {% set main_header_classes = "header" %}
 {% import "macros/macro-tile.njk" as macroTile %}
 {% block main -%}
   {{ super() }}
+
+<section class="master-palette container">
+<h2><span class="title">Master Palette</span></h2>
 <div class="palette palette-cyan" id="cyan-palette">
   <svg viewBox="0 0 800 40">
     {%- for tile in tiles_cyan -%}
@@ -216,4 +220,5 @@
     {%- endfor -%}
   </svg>
 </div>
+</section>
 {%- endblock -%}

@@ -159,6 +159,7 @@ module.exports = function(grunt) {
    dist: {
      files: {
        'docs/assets/js/set-color-info.min.js' : ['src/assets/js/set-color-info.js'],
+       'src/assets/js/load-google-webfont.min.js' : ['src/assets/js/load-google-webfont.js'],
        // 'src/assets/js/accessible-color-contrast.min.js' : ['src/assets/js/accessible-color-contrast.js'],
        // 'src/assets/js/modal.min.js' : ['src/assets/js/modal.js'],
      }
@@ -174,7 +175,8 @@ module.exports = function(grunt) {
  copy: {
   main: {
     files: {
-      'src/html/partials/set-color-info.njk': 'docs/assets/js/set-color-info.min.js'
+      'src/html/partials/set-color-info.njk': 'docs/assets/js/set-color-info.min.js',
+      'src/html/partials/load-google-webfont-script.njk': 'src/assets/js/load-google-webfont.min.js'
       // 'assets/css/style.css': 'docs/assets/css/style.css',
       // 'assets/css/style.min.css': 'docs/assets/css/style.min.css'
     },

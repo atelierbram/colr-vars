@@ -1239,102 +1239,102 @@
     {
       "tile_xvalue" : "0",
       "tile_id" : "red-01",
-      "tile_hsl" : "hsl(9, 10%, 96%)"
+      "tile_hsl" : "hsl(345, 10%, 96%)"
     },
     {
       "tile_xvalue" : "40",
       "tile_id" : "red-02",
-      "tile_hsl" : "hsl(9, 13%, 94%)"
+      "tile_hsl" : "hsl(345, 13%, 94%)"
     },
     {
       "tile_xvalue" : "80",
       "tile_id" : "red-03",
-      "tile_hsl" : "hsl(9, 16%, 90%)"
+      "tile_hsl" : "hsl(345, 16%, 90%)"
     },
     {
       "tile_xvalue" : "120",
       "tile_id" : "red-04",
-      "tile_hsl" : "hsl(9, 19%, 85%)"
+      "tile_hsl" : "hsl(345, 19%, 85%)"
     },
     {
       "tile_xvalue" : "160",
       "tile_id" : "red-05",
-      "tile_hsl" : "hsl(9, 22%, 80%)"
+      "tile_hsl" : "hsl(345, 22%, 80%)"
     },
     {
       "tile_xvalue" : "200",
       "tile_id" : "red-06",
-      "tile_hsl" : "hsl(9, 25%, 75%)"
+      "tile_hsl" : "hsl(345, 25%, 75%)"
     },
     {
       "tile_xvalue" : "240",
       "tile_id" : "red-07",
-      "tile_hsl" : "hsl(9, 28%, 70%)"
+      "tile_hsl" : "hsl(345, 28%, 70%)"
     },
     {
       "tile_xvalue" : "280",
       "tile_id" : "red-08",
-      "tile_hsl" : "hsl(9, 31%, 65%)"
+      "tile_hsl" : "hsl(345, 31%, 65%)"
     },
     {
       "tile_xvalue" : "320",
       "tile_id" : "red-09",
-      "tile_hsl" : "hsl(9, 34%, 60%)"
+      "tile_hsl" : "hsl(345, 34%, 60%)"
     },
     {
       "tile_xvalue" : "360",
       "tile_id" : "red-10",
-      "tile_hsl" : "hsl(9, 37%, 55%)"
+      "tile_hsl" : "hsl(345, 37%, 55%)"
     },
     {
       "tile_xvalue" : "400",
       "tile_id" : "red-11",
-      "tile_hsl" : "hsl(9, 70%, 50%)"
+      "tile_hsl" : "hsl(345, 70%, 50%)"
     },
     {
       "tile_xvalue" : "440",
       "tile_id" : "red-12",
-      "tile_hsl" : "hsl(9, 73%, 45%)"
+      "tile_hsl" : "hsl(345, 73%, 45%)"
     },
     {
       "tile_xvalue" : "480",
       "tile_id" : "red-13",
-      "tile_hsl" : "hsl(9, 76%, 40%)"
+      "tile_hsl" : "hsl(345, 76%, 40%)"
     },
     {
       "tile_xvalue" : "520",
       "tile_id" : "red-14",
-      "tile_hsl" : "hsl(9, 79%, 35%)"
+      "tile_hsl" : "hsl(345, 79%, 35%)"
     },
     {
       "tile_xvalue" : "560",
       "tile_id" : "red-15",
-      "tile_hsl" : "hsl(9, 82%, 30%)"
+      "tile_hsl" : "hsl(345, 82%, 30%)"
     },
     {
       "tile_xvalue" : "600",
       "tile_id" : "red-16",
-      "tile_hsl" : "hsl(9, 85%, 25%)"
+      "tile_hsl" : "hsl(345, 85%, 25%)"
     },
     {
       "tile_xvalue" : "640",
       "tile_id" : "red-17",
-      "tile_hsl" : "hsl(9, 90%, 20%)"
+      "tile_hsl" : "hsl(345, 90%, 20%)"
     },
     {
       "tile_xvalue" : "680",
       "tile_id" : "red-18",
-      "tile_hsl" : "hsl(9, 94%, 16%)"
+      "tile_hsl" : "hsl(345, 94%, 16%)"
     },
     {
       "tile_xvalue" : "720",
       "tile_id" : "red-19",
-      "tile_hsl" : "hsl(9, 98%, 12%)"
+      "tile_hsl" : "hsl(345, 98%, 12%)"
     },
     {
       "tile_xvalue" : "760",
       "tile_id" : "red-20",
-      "tile_hsl" : "hsl(9, 100%, 8%)"
+      "tile_hsl" : "hsl(345, 100%, 8%)"
     }
   ],
 
@@ -1445,102 +1445,102 @@
     {
       "tile_xvalue" : "0",
       "tile_id" : "scarlet-01",
-      "tile_hsl" : "hsl(3, 10%, 96%)"
+      "tile_hsl" : "hsl(9, 10%, 96%)"
     },
     {
       "tile_xvalue" : "40",
       "tile_id" : "scarlet-02",
-      "tile_hsl" : "hsl(3, 13%, 94%)"
+      "tile_hsl" : "hsl(9, 13%, 94%)"
     },
     {
       "tile_xvalue" : "80",
       "tile_id" : "scarlet-03",
-      "tile_hsl" : "hsl(3, 16%, 90%)"
+      "tile_hsl" : "hsl(9, 16%, 90%)"
     },
     {
       "tile_xvalue" : "120",
       "tile_id" : "scarlet-04",
-      "tile_hsl" : "hsl(3, 19%, 85%)"
+      "tile_hsl" : "hsl(9, 19%, 85%)"
     },
     {
       "tile_xvalue" : "160",
       "tile_id" : "scarlet-05",
-      "tile_hsl" : "hsl(3, 22%, 80%)"
+      "tile_hsl" : "hsl(9, 22%, 80%)"
     },
     {
       "tile_xvalue" : "200",
       "tile_id" : "scarlet-06",
-      "tile_hsl" : "hsl(3, 25%, 75%)"
+      "tile_hsl" : "hsl(9, 25%, 75%)"
     },
     {
       "tile_xvalue" : "240",
       "tile_id" : "scarlet-07",
-      "tile_hsl" : "hsl(3, 28%, 70%)"
+      "tile_hsl" : "hsl(9, 28%, 70%)"
     },
     {
       "tile_xvalue" : "280",
       "tile_id" : "scarlet-08",
-      "tile_hsl" : "hsl(3, 31%, 65%)"
+      "tile_hsl" : "hsl(9, 31%, 65%)"
     },
     {
       "tile_xvalue" : "320",
       "tile_id" : "scarlet-09",
-      "tile_hsl" : "hsl(3, 34%, 60%)"
+      "tile_hsl" : "hsl(9, 34%, 60%)"
     },
     {
       "tile_xvalue" : "360",
       "tile_id" : "scarlet-10",
-      "tile_hsl" : "hsl(3, 37%, 55%)"
+      "tile_hsl" : "hsl(9, 37%, 55%)"
     },
     {
       "tile_xvalue" : "400",
       "tile_id" : "scarlet-11",
-      "tile_hsl" : "hsl(3, 70%, 50%)"
+      "tile_hsl" : "hsl(9, 70%, 50%)"
     },
     {
       "tile_xvalue" : "440",
       "tile_id" : "scarlet-12",
-      "tile_hsl" : "hsl(3, 73%, 45%)"
+      "tile_hsl" : "hsl(9, 73%, 45%)"
     },
     {
       "tile_xvalue" : "480",
       "tile_id" : "scarlet-13",
-      "tile_hsl" : "hsl(3, 76%, 40%)"
+      "tile_hsl" : "hsl(9, 76%, 40%)"
     },
     {
       "tile_xvalue" : "520",
       "tile_id" : "scarlet-14",
-      "tile_hsl" : "hsl(3, 79%, 35%)"
+      "tile_hsl" : "hsl(9, 79%, 35%)"
     },
     {
       "tile_xvalue" : "560",
       "tile_id" : "scarlet-15",
-      "tile_hsl" : "hsl(3, 82%, 30%)"
+      "tile_hsl" : "hsl(9, 82%, 30%)"
     },
     {
       "tile_xvalue" : "600",
       "tile_id" : "scarlet-16",
-      "tile_hsl" : "hsl(3, 85%, 25%)"
+      "tile_hsl" : "hsl(9, 85%, 25%)"
     },
     {
       "tile_xvalue" : "640",
       "tile_id" : "scarlet-17",
-      "tile_hsl" : "hsl(3, 90%, 20%)"
+      "tile_hsl" : "hsl(9, 90%, 20%)"
     },
     {
       "tile_xvalue" : "680",
       "tile_id" : "scarlet-18",
-      "tile_hsl" : "hsl(3, 94%, 16%)"
+      "tile_hsl" : "hsl(9, 94%, 16%)"
     },
     {
       "tile_xvalue" : "720",
       "tile_id" : "scarlet-19",
-      "tile_hsl" : "hsl(3, 98%, 12%)"
+      "tile_hsl" : "hsl(9, 98%, 12%)"
     },
     {
       "tile_xvalue" : "760",
       "tile_id" : "scarlet-20",
-      "tile_hsl" : "hsl(3, 100%,  8%)"
+      "tile_hsl" : "hsl(9, 100%,  8%)"
     }
   ],
 

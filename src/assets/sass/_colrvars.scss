@@ -16,7 +16,7 @@
 "colrvars/lemon-colors",
 "colrvars/lime-colors",
 "colrvars/magenta-colors",
-"colrvars/monochrome-cyan-colors",
+"colrvars/monochrome_cyan-colors",
 "colrvars/ocre-colors",
 "colrvars/orange-colors",
 "colrvars/pelorous-colors",
@@ -155,7 +155,7 @@
     @return map-get($pelorous-colors, $color);
   }
 
-  @if map-has-key($monochrome-cyan-colors, $color) {
+  @if map-has-key($monochrome_cyan-colors, $color) {
     @return map-get($monochrome-cyan-colors, $color);
   }
 
@@ -214,7 +214,7 @@
   @return null;
   @warn "Unknown `#{$color}` in $pelorous-colors.";
   @return null;
-  @warn "Unknown `#{$color}` in $monochrome-cyan-colors.";
+  @warn "Unknown `#{$color}` in $monochrome_cyan-colors.";
   @return null;
   @warn "Unknown `#{$color}` in $gray-colors.";
   @return null;
