@@ -39,5 +39,8 @@ $gold-06: color(gold-06);
 
 To make them your own, adapt these colorvalues, one will have to edit `data.json`. Get into Nunjucks templating (`src/schemes`) with this if it’s additional colors, and/or renaming of colors as well. Download or clone this repository, NPM install all the dependencies, edit the colorvalues in `data.json`, and run `grunt` from the commandline.
 
+For renaming colors _in Sass_, consider using the color-naming convention as [described in this blogpost: “More Gooder SASS Color Variables”](https://codepen.io/DeptofJeffAyer/post/more-gooder-sass-color-variables) with the help of [this sass color
+“Variablizer” webapp](https://codepen.io/DeptofJeffAyer/full/LkJOqK/).
+
 This [Readme in html](http://atelierbram.github.io/colr-vars/test/).
 

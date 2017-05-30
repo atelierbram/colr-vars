@@ -90,12 +90,20 @@ h2 {
 
 a {
   color: color(blue-12);
+  transition: all .3s;
 }
-// .wf-active h1,
-// .wf-active h2 {
-//   font-weight: 400;
-//   font-family: "Crete Round", AvenirNextCondensed-Medium, -apple-system, BlinkMacSystemFont, "Lucida Grande", "Segoe Ui", "Corbel", Verdana, sans-serif;
-// }
+
+p > a {
+  text-decoration: none;
+  box-shadow: 0 5px 0 color(blue-06);
+  padding: 0 .125em;
+}
+
+p > a:hover {
+  color: color(blue-13);
+  box-shadow: 0 5px 0 color(blue-04);
+  background-color: color(blue-04);
+}
 
 .title {
   display: inline-block;
@@ -276,68 +284,3 @@ p > code {
 .hljs-strong {
     font-weight: bold;
 }
-
-// Let's declare our breakpoints
-// $breakpoints: (
-//   small: 600px,
-//   medium: 800px,
-//   large: 1000px
-// );
-
-// Mixin to detect which breakpoint to use from our above list map
-// @mixin wider-than($screen-size) {
-//   @if map-has-key($breakpoints, $screen-size) {
-//     @media (min-width: map-get($breakpoints, $screen-size)) {
-//       @content;
-//     }
-//   } @else {
-//     // Debugging
-//     @warn "'#{$screen-size}' has not been declared as a breakpoint."
-//   }
-// }
-
-// Positioning of color block and variable name
-// .derivative-palette {
-//   padding-left: 2em;
-//   padding-right: 2em;
-//
-//   .row {
-//     overflow: auto;
-//     margin: 4em 0;
-//   }
-//
-//   div[class*='-bg'] {
-//     float: left;
-//     height: 176px;
-//     position: relative;
-//     width: 100%;
-//
-//     @include wider-than(small) {
-//     }
-//
-//     @include wider-than(medium) {
-//       width: 33.33%;
-//     }
-//
-//     @include wider-than(large) {
-//       width: 11.11%;
-//     }
-//
-//     &:before,
-//     &:after {
-//       background: rgba(0, 0, 0, .4);
-//       display: block;
-//       line-height: 1.75;
-//       position: absolute;
-//       width: 100%;
-//     }
-//
-//     &:before {
-//       bottom: 28px;
-//     }
-//
-//     &:after {
-//       bottom: 0;
-//     }
-//   }
-// }

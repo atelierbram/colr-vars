@@ -81,6 +81,19 @@ h2 {
 
 a {
   color: #264cc0;
+  transition: all .3s;
+}
+
+p > a {
+  text-decoration: none;
+  box-shadow: 0 5px 0 #abb5d3;
+  padding: 0 .125em;
+}
+
+p > a:hover {
+  color: #1e42ae;
+  box-shadow: 0 5px 0 #ced3e4;
+  background-color: #ced3e4;
 }
 
 .title {
