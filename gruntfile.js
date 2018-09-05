@@ -6,10 +6,12 @@ module.exports = function(grunt) {
   sass: {
    examples: {
     options: {
-     outputStyle: "expanded",
-     sourceMapContents: true,
-     sourceMap: true,
-     precision: 4
+      implementation: require('node-sass'),
+      sourceMap: true,
+      // outputStyle: "expanded",
+      // sourceMapContents: true,
+      // sourceMap: true,
+      // precision: 4
     },
     files: {
      "docs/assets/css/style.css": "src/assets/sass/style.scss"
@@ -17,26 +19,28 @@ module.exports = function(grunt) {
    }
   },
   // Post CSS task
-  postcss: {
-   options: {
-    map: true,
-    processors: [
-     require("autoprefixer")({
-      browsers: ["last 2 versions"]
-     })
-    ]
+   postcss: {
+     options: {
+       map: true,
+       processors: [
+         require("autoprefixer")({ browsers: ["last 2 versions"] }),
+         require('cssnano')(),
+       ]
+     },
+     examples: {
+       // src: "css#<{(||)}>#*.css"
+       files: {
+         'docs/assets/css/style.min.css': 'docs/assets/css/style.css'
+       }
+     }
    },
-   examples: {
-    src: "css/**/*.css"
-   }
-  },
-  cssmin: {
-   dist: {
-    files: {
-     'docs/assets/css/style.min.css': 'docs/assets/css/style.css'
-    }
-   }
-  },
+  // cssmin: {
+  //  dist: {
+  //   files: {
+  //    'docs/assets/css/style.min.css': 'docs/assets/css/style.css'
+  //   }
+  //  }
+  // },
   // Watch task
   watch: {
    sass: {
@@ -55,14 +59,14 @@ module.exports = function(grunt) {
      livereload: true
     }
    },
-   cssmin: {
-    files: ["docs/assets/css/**/*.css"],
-    tasks: "postcss",
-    options: {
-     spawn: false,
-     livereload: true
-    }
-   },
+   // cssmin: {
+   //  files: ["docs/assets/css#<{(||)}>#*.css"],
+   //  tasks: "postcss",
+   //  options: {
+   //   spawn: false,
+   //   livereload: true
+   //  }
+   // },
    js: {
     files: ['src/assets/js/**/*.js'],
     tasks: ['concat','uglify'],
@@ -209,7 +213,6 @@ module.exports = function(grunt) {
   "clean:all",
   "sass",
   "postcss",
-  "cssmin",
   "nunjucks",
   // "prettify",
   "uglify",
