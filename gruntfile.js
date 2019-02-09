@@ -34,13 +34,6 @@ module.exports = function(grunt) {
        }
      }
    },
-  // cssmin: {
-  //  dist: {
-  //   files: {
-  //    'docs/assets/css/style.min.css': 'docs/assets/css/style.css'
-  //   }
-  //  }
-  // },
   // Watch task
   watch: {
    sass: {
@@ -59,14 +52,6 @@ module.exports = function(grunt) {
      livereload: true
     }
    },
-   // cssmin: {
-   //  files: ["docs/assets/css#<{(||)}>#*.css"],
-   //  tasks: "postcss",
-   //  options: {
-   //   spawn: false,
-   //   livereload: true
-   //  }
-   // },
    js: {
     files: ['src/assets/js/**/*.js'],
     tasks: ['concat','uglify'],
@@ -76,7 +61,7 @@ module.exports = function(grunt) {
   },
    html: {
     files: ["src/**/*.html", "src/**/*.njk"],
-    // tasks: ["clean:html", "nunjucks", "prettify"],
+    // tasks: ["clean:html", "nunjucks"],
     tasks: ["clean:html", "nunjucks", "htmlmin"],
     options: {
      spawn: false,
@@ -133,25 +118,6 @@ module.exports = function(grunt) {
       src: ["index.html", "examples/**/*.html", "css/**/*.css"]
     }
   },
-  // Prettify task
-  // prettify: {
-  //  options: {
-  //   "indent": 1,
-  //   "indent_char": " ",
-  //   "brace_style": "collapse",
-  //   "preserve_newlines": true,
-  //   "condense": true,
-  //   "max_preserve_newlines": 2,
-  //   "unformatted": ["a", "code", "pre"]
-  //  },
-  //  all: {
-  //   expand: true,
-  //   cwd: "",
-  //   src: ["docs#<{(||)}>#*.html"],
-  //   dest: "",
-  //   ext: ".html"
-  //  }
-  // },
 
   uglify: {
    options: {
@@ -214,7 +180,6 @@ module.exports = function(grunt) {
   "sass",
   "postcss",
   "nunjucks",
-  // "prettify",
   "uglify",
   "concat",
   "copy",
